@@ -1,2 +1,2 @@
-1. test: [file](/home/lovro/Documents/school/znanje/nem/nem.docx)
-2. test: [file](/home/lovro/Documents/school/znanje/nem/Nem_2_test_zapiski.docx)
+1. test: [file](nem.docx)
+2. test: [file](Nem_2_test_zapiski.docx)

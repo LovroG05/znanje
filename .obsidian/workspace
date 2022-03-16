@@ -7,8 +7,12 @@
         "id": "826e676c80af4aaa",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "nem/nem.md",
+            "mode": "source",
+            "source": true
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "nem/nem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,11 +89,11 @@
   },
   "active": "826e676c80af4aaa",
   "lastOpenFiles": [
+    "nem/nem.md",
     "šola.md",
     "slo/esej.md",
     "bio/bio.md",
     "ostalo.md",
-    "nem/nem.md",
     "home/lovro/Documents/school/znanje/nem/Nem_2_test_zapiski.docx.md",
     "slo/slo_knj.md",
     "zapiski.md",
