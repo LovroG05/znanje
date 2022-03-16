@@ -1,0 +1,98 @@
+{
+  "main": {
+    "id": "2824cbd024bbd09f",
+    "type": "split",
+    "children": [
+      {
+        "id": "826e676c80af4aaa",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5bdcfa0a5cbd653b",
+    "type": "split",
+    "children": [
+      {
+        "id": "f5e98edd5b7a7245",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "77eb04a694074d36",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "31afcd4f66caead9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d4d3a127a8a65149",
+    "type": "split",
+    "children": [
+      {
+        "id": "9f18dcb140115f37",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0528ed8235a5539d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "826e676c80af4aaa",
+  "lastOpenFiles": [
+    "šola.md",
+    "slo/esej.md",
+    "bio/bio.md",
+    "ostalo.md",
+    "nem/nem.md",
+    "home/lovro/Documents/school/znanje/nem/Nem_2_test_zapiski.docx.md",
+    "slo/slo_knj.md",
+    "zapiski.md",
+    "zgo/zgo1.md",
+    "zgo/zgo2.md"
+  ]
+}
