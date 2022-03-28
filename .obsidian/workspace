@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "nem/glagoli.md",
-            "mode": "source",
+            "file": "ang/ang.md",
+            "mode": "preview",
             "source": true
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "nem/glagoli.md",
+                "file": "ang/ang.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "826e676c80af4aaa",
   "lastOpenFiles": [
+    "ang/ang.md",
+    "psi/psi.md",
     "nem/glagoli.md",
     "nem/nem.md",
+    "bio/bio.md",
+    "LAVr/LAVr.md",
     "šola.md",
     "slo/esej.md",
-    "bio/bio.md",
     "ostalo.md",
-    "home/lovro/Documents/school/znanje/nem/Nem_2_test_zapiski.docx.md",
-    "slo/slo_knj.md",
-    "zapiski.md",
-    "zgo/zgo1.md"
+    "home/lovro/Documents/school/znanje/nem/Nem_2_test_zapiski.docx.md"
   ]
 }
