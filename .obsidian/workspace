@@ -7,12 +7,8 @@
         "id": "826e676c80af4aaa",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "ang/ang.md",
-            "mode": "preview",
-            "source": true
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ang/ang.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,13 +84,13 @@
   },
   "active": "826e676c80af4aaa",
   "lastOpenFiles": [
+    "šola.md",
     "ang/ang.md",
     "psi/psi.md",
     "nem/glagoli.md",
     "nem/nem.md",
     "bio/bio.md",
     "LAVr/LAVr.md",
-    "šola.md",
     "slo/esej.md",
     "ostalo.md",
     "home/lovro/Documents/school/znanje/nem/Nem_2_test_zapiski.docx.md"

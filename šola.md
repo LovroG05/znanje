@@ -13,3 +13,5 @@
 	- [[esej]]
 - BIOLOGIJA
 	- [[bio]]
+- ANGLEŠČINA
+	- [[ang]]
