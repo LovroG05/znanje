@@ -1,0 +1,48 @@
+{
+  "folders": [
+    {
+      "name": "",
+      "relativePath": "/"
+    },
+    {
+      "name": "LAVr",
+      "relativePath": "LAVr"
+    },
+    {
+      "name": "ang",
+      "relativePath": "ang"
+    },
+    {
+      "name": "bio",
+      "relativePath": "bio"
+    },
+    {
+      "name": "nem",
+      "relativePath": "nem"
+    },
+    {
+      "name": "psi",
+      "relativePath": "psi"
+    },
+    {
+      "name": "slo",
+      "relativePath": "slo"
+    },
+    {
+      "name": "zgo",
+      "relativePath": "zgo"
+    }
+  ],
+  "nonMdFiles": [
+    {
+      "name": "Nem_2_test_zapiski.docx",
+      "basename": "Nem_2_test_zapiski",
+      "relativePath": "nem/Nem_2_test_zapiski.docx"
+    },
+    {
+      "name": "nem.docx",
+      "basename": "nem",
+      "relativePath": "nem/nem.docx"
+    }
+  ]
+}

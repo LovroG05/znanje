@@ -1,5 +1,6 @@
 {
   "legacyEditor": false,
   "livePreview": false,
-  "promptDelete": false
+  "promptDelete": false,
+  "newLinkFormat": "relative"
 }
