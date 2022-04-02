@@ -10,6 +10,7 @@
 	- [[LAVr]]
 - SLOVENŠČINA
 	- [[slo_knj]]
+	- [[slo/Predromantika in romantika]]
 	- [[esej]]
 - BIOLOGIJA
 	- [[bio]]

@@ -1,33 +1,6 @@
-<div align="center">
-  <h1 align="center">ZAPISKI</h1>
 
-  <h3 align="center">
-    Laboratorijske vaje računalništva
-  </h3>
 
-  </br>
-</div>
-
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li><a href="#zapiski">Zapiski</a>
-        <ul>
-            <li><a href="#zapiski-19-1">zapiski 19.1</a></li>
-            <li><a href="#zapiski-26-1">zapiski 26.1</a></li>
-            <li><a href="#zapiski-2-2">zapiski 2.2</a></li>
-            <li><a href="#zapiski-10-2">zapiski 10.2</a></li>
-            <li><a href="#zapiski-17-2">zapiski 17.2</a></li>
-            <li><a href="#zapiski-3-3">zapiski 3.3</a></li>
-        </ul>
-    </li>
-  </ol>
-</details>
-
-<hr>
-
-# Zapiski
+# Zapiski - LAVr
 
 ## Zapiski-19-1
 

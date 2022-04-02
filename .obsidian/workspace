@@ -4,11 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "826e676c80af4aaa",
+        "id": "0f796fbf8e659b43",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "slo/Predromantika in romantika.md",
+            "mode": "source",
+            "source": true
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "slo/Predromantika in romantika.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -82,17 +87,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "826e676c80af4aaa",
+  "active": "0f796fbf8e659b43",
   "lastOpenFiles": [
+    "slo/Predromantika in romantika.md",
     "šola.md",
-    "ang/ang.md",
-    "psi/psi.md",
-    "nem/glagoli.md",
-    "nem/nem.md",
-    "bio/bio.md",
-    "LAVr/LAVr.md",
-    "slo/esej.md",
+    "slo/slo_knj.md",
+    "zapiski.md",
+    "README.md",
     "ostalo.md",
-    "home/lovro/Documents/school/znanje/nem/Nem_2_test_zapiski.docx.md"
+    "zgo/zgo2.md",
+    "zgo/zgo1.md",
+    "slo/esej.md",
+    "psi/psi.md"
   ]
 }

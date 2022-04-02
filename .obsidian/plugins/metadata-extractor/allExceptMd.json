@@ -35,6 +35,11 @@
   ],
   "nonMdFiles": [
     {
+      "name": "metadata.json",
+      "basename": "metadata",
+      "relativePath": "metadata.json"
+    },
+    {
       "name": "Nem_2_test_zapiski.docx",
       "basename": "Nem_2_test_zapiski",
       "relativePath": "nem/Nem_2_test_zapiski.docx"
