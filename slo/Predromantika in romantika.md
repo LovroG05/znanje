@@ -247,3 +247,59 @@ navdih za opero Čajkovskega
 	- povzame vse ključne misli
 	- iz njega lahko razberemo akrostih Primcovi Juliji
 - Ideja: Julijina ljubezen bi odrešila pesnika in njegov navdih. Zaradi nje bi ustvaril veliko poezijo, z njo pa osvestil slovence da bi ljubili svojo domovino. V zbirki Poezije je v magistralnem sonetu zamenjal besedni red 1., 7., 10., 11. verza, akrostih v 1050 ni bil razviden v 150 pa je
+
+### Krst pri savici
+- 1835, najdaljša Prešernova pesnitev
+- izdana 1836
+- zgradba
+	- posvetilni sonet M. Čopu
+	- uvod - 25 trcin + 1 kvartina
+	- krst - 53
+- iz tercin, le zadnja kvartina;
+- zgradba simetrična, spominja na dramski trikotnik
+- snov: nasilno pokristjanjevanje
+- tema: poslednji boj naših prednikov za staro vero, samostojnost
+- Črtomir je v Uvodu notranje skladna osebnost z jasnim ciljem, usmerjenim v zunanjo akcijo, ni romantik. Njegova ideala sta *svoboda* in *demokratičnost*. Obsoja bratomorno vojno. Panslavizem; fatalizem; verski skepticizem;
+- zgradba: simetrična, spominja na dramski trikotnik: brezupna obkoljenost(10 tercin), odločitev za nočni napad(7 tercin), poslednji boj(9 tercin)
+- ritem pred metrumom - enakomern izvajanje poudarjenih in nepoudarjenih zlogov
+- homerska primera
+- ideja: svobodomiselnost, pripadnost narodu
+- Črtomir je v Krstu romantični junak. Predstavljena je njegova osebna drama, osnovni ton je lirski, deloma dramatski(prvine)
+- vidimo glavne teme:
+	- romantična ljubezen
+	- življensski obup
+	- spoznanje da je usoda neizbežna -> *resignacija* (vdanost v usodo)
+- duhovnik utemeljuje krvavi boj: valjhun je ravnal po svoji volji
+- ali je krščanski bog bog ljubezni če je dopustil tako morijo
+- črtomir vztraja, ne naredi samomora
+- Interpretacije Krsta so bile različne
+	- Prešeren se je v obupu zatekel v krščanstvo
+	- Črtomir (alter ego Prešerna) je spoznal nujnost zgodovine in se ji uklonil
+	- Bogomila se versko spreobrne, smisel spreobrnitve pa je ljubezenska. Črtomir sprejme krščanstvo zaradi Bogomile
+
+### Pevcu
+- Tema je pesniški poklic
+- pesem je izrazito strogo zgrajena, je iz 5 kitic, št verzov simetrično narašča in pada 2,3,4,3,2
+- Rima ima obliko samoglasniškega trikotnika aeiou
+- vrh je v 3. kitici
+- v 1. kitici govori o krizi duha, razuma, o brezupu
+- v 2. kitici upelje mit o prometeju - namesto orla kragulj, namesto ledvic srce. Govori o bolečini srca
+- v 3. kitici govori o izbrisani preteklosti, brezupni prihodnosti, prazni sedanjosti
+- v 4. kitici govori o dolžnosti pesnikovega poslanstva, prenašati mora ali pekel ali nebo
+- v 5. kitici pravi da je pesniško poslanstvo usodno, tragično
+- nagovarja pesnika, smisel je vztrajati v življenju
+- v središču je kult pesnika - Pesnik je Prometej, razpet med tegobe vsakdanjega življenja in želje po pravih vrednotah
+- v slogu prepoznamo retorična vprašanja
+
+### Neiztrohnjeno srce
+V Prešernovem poznem obdobju 1840-1849
+je pripovedna pesem o skrivnostnem mrtvecu ki mu srce v zemlji ni moglo strohneti. Stari mož pove, da gre za pevca, ki je umrl zaradi nesrečne ljubezni ker svojih pesmi in sanj, ki mu jih je vdihnila narava, ni mogel izpeljati, njegovo srce ni moglo strohneti. To bo mogoče šele takrat, ko bo spet našlo naravo. Izvir poezije je torej globji kot je pesnikova duša. Pesem kaže romantičen pogled na pesnika in pesništvo. Pesem je tudi balada. Za romantično balado je značilno da je to epsko-lirska pesem temačnega vzdušja. Pesem je napisana v nibelunški kitici (4 vrstice, imenovana po epu Pesem o Nibelungi)
+
+### Zdravljica
+Je pesem napitnica, hkrati pa tudi pomembna politična pesem. Prešeren je dobil pobudo od duhovnika Vrtovca. Druga pobuda - jeza zaradi pretirano slavilne pesmi J.V. Koseskega, Oda Cesatju Ferdinandu. Pesem je bila cenzurirana zaradi držne politične misli. Fran Miklošič je prečrtal 4. kitico. Prešeren cenzurirane pesmi ni hotel objaviti.
+
+Pesem je likovna (carmen fiburatum). Verzi so jambi. Misel: Zdravljica je sicer pesem napitnica, vendar presega zgolj razpoloženje ob pivskem druženju. Teme v njej so prijateljstvo, narodoljubje, svobodoljubje, strpnost, osebna svoboda.
+Sporočilo presega čas nastanka te pesmi saj govori o strpnosti in sožitju vseh narodov.
+
+### Nezakonska mati
+- pesem vložnica - govorec si nadane vlogo
