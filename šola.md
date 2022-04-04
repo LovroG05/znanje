@@ -1,5 +1,5 @@
 # PREDMETI
- - [[zgo/Zgodovina]]
+- [[zgo/Zgodovina]]
 - [[psi]]
 - [[nem]]
 - [[LAVr]]

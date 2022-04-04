@@ -10,12 +10,9 @@
     ],
     "links": [
       {
-        "link": "zgo1",
-        "relativePath": "zgo/zgo1.md"
-      },
-      {
-        "link": "zgo2",
-        "relativePath": "zgo/zgo2.md"
+        "link": "Zgodovina",
+        "displayText": "zgo/Zgodovina",
+        "relativePath": "zgo/Zgodovina.md"
       },
       {
         "link": "psi",
@@ -30,55 +27,31 @@
         "relativePath": "LAVr/LAVr.md"
       },
       {
-        "link": "slo_knj",
-        "relativePath": "slo/slo_knj.md"
-      },
-      {
-        "link": "Predromantika in romantika",
-        "displayText": "slo/Predromantika in romantika",
-        "relativePath": "slo/Predromantika in romantika.md"
-      },
-      {
-        "link": "esej",
-        "relativePath": "slo/esej.md"
+        "link": "Slovenščina",
+        "displayText": "slo/Slovenščina",
+        "relativePath": "slo/Slovenščina.md"
       },
       {
         "link": "bio",
         "relativePath": "bio/bio.md"
       },
       {
-        "link": "ang",
-        "relativePath": "ang/ang.md"
+        "link": "Angleščina",
+        "displayText": "ang/Angleščina",
+        "relativePath": "ang/Angleščina.md"
       }
     ],
     "backlinks": [
       {
-        "fileName": "zapiski",
+        "fileName": "README",
         "link": "šola",
-        "relativePath": "zapiski.md"
+        "relativePath": "README.md"
       }
     ]
   },
   {
-    "fileName": "zgo1",
-    "relativePath": "zgo/zgo1.md",
-    "links": [
-      {
-        "link": "zgo2",
-        "relativePath": "zgo/zgo2.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "šola",
-        "link": "zgo1",
-        "relativePath": "šola.md"
-      }
-    ]
-  },
-  {
-    "fileName": "zgo2",
-    "relativePath": "zgo/zgo2.md",
+    "fileName": "test2",
+    "relativePath": "zgo/test2.md",
     "headings": [
       {
         "heading": "2. DRUŽBENE SPREMEMBE V EVROPI OD 6.-18. STOLETJA",
@@ -131,28 +104,52 @@
     ],
     "backlinks": [
       {
-        "fileName": "šola",
-        "link": "zgo2",
-        "relativePath": "šola.md"
-      },
-      {
-        "fileName": "zgo1",
-        "link": "zgo2",
-        "relativePath": "zgo/zgo1.md"
+        "fileName": "Zgodovina",
+        "link": "test2",
+        "relativePath": "zgo/Zgodovina.md"
       }
     ]
   },
   {
-    "fileName": "zapiski",
-    "relativePath": "zapiski.md",
-    "links": [
+    "fileName": "test1",
+    "relativePath": "zgo/test1.md",
+    "backlinks": [
       {
-        "link": "šola",
-        "relativePath": "šola.md"
+        "fileName": "Zgodovina",
+        "link": "test1",
+        "relativePath": "zgo/Zgodovina.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Zgodovina",
+    "relativePath": "zgo/Zgodovina.md",
+    "headings": [
+      {
+        "heading": "Zgodovina",
+        "level": 1
       },
       {
-        "link": "ostalo",
-        "relativePath": "ostalo.md"
+        "heading": "Kazalo",
+        "level": 2
+      }
+    ],
+    "links": [
+      {
+        "link": "test1",
+        "relativePath": "zgo/test1.md"
+      },
+      {
+        "link": "test2",
+        "relativePath": "zgo/test2.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "šola",
+        "link": "Zgodovina",
+        "relativePath": "šola.md",
+        "displayText": "zgo/Zgodovina"
       }
     ]
   },
@@ -243,9 +240,9 @@
     ],
     "backlinks": [
       {
-        "fileName": "šola",
+        "fileName": "Slovenščina",
         "link": "slo_knj",
-        "relativePath": "šola.md"
+        "relativePath": "slo/Slovenščina.md"
       }
     ]
   },
@@ -260,9 +257,45 @@
     ],
     "backlinks": [
       {
-        "fileName": "šola",
+        "fileName": "Slovenščina",
         "link": "esej",
-        "relativePath": "šola.md"
+        "relativePath": "slo/Slovenščina.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Slovenščina",
+    "relativePath": "slo/Slovenščina.md",
+    "headings": [
+      {
+        "heading": "Slovenščina",
+        "level": 1
+      },
+      {
+        "heading": "Kazalo",
+        "level": 2
+      }
+    ],
+    "links": [
+      {
+        "link": "esej",
+        "relativePath": "slo/esej.md"
+      },
+      {
+        "link": "Predromantika in romantika",
+        "relativePath": "slo/Predromantika in romantika.md"
+      },
+      {
+        "link": "slo_knj",
+        "relativePath": "slo/slo_knj.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "šola",
+        "link": "Slovenščina",
+        "relativePath": "šola.md",
+        "displayText": "slo/Slovenščina"
       }
     ]
   },
@@ -349,10 +382,9 @@
     ],
     "backlinks": [
       {
-        "fileName": "šola",
+        "fileName": "Slovenščina",
         "link": "Predromantika in romantika",
-        "relativePath": "šola.md",
-        "displayText": "slo/Predromantika in romantika"
+        "relativePath": "slo/Slovenščina.md"
       }
     ]
   },
@@ -372,9 +404,9 @@
     "relativePath": "ostalo.md",
     "backlinks": [
       {
-        "fileName": "zapiski",
+        "fileName": "README",
         "link": "ostalo",
-        "relativePath": "zapiski.md"
+        "relativePath": "README.md"
       }
     ]
   },
@@ -468,8 +500,8 @@
     ]
   },
   {
-    "fileName": "ang",
-    "relativePath": "ang/ang.md",
+    "fileName": "slovnica",
+    "relativePath": "ang/slovnica.md",
     "headings": [
       {
         "heading": "Slovnica",
@@ -498,9 +530,37 @@
     ],
     "backlinks": [
       {
+        "fileName": "Angleščina",
+        "link": "slovnica",
+        "relativePath": "ang/Angleščina.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Angleščina",
+    "relativePath": "ang/Angleščina.md",
+    "headings": [
+      {
+        "heading": "Angleščina",
+        "level": 1
+      },
+      {
+        "heading": "Kazalo",
+        "level": 2
+      }
+    ],
+    "links": [
+      {
+        "link": "slovnica",
+        "relativePath": "ang/slovnica.md"
+      }
+    ],
+    "backlinks": [
+      {
         "fileName": "šola",
-        "link": "ang",
-        "relativePath": "šola.md"
+        "link": "Angleščina",
+        "relativePath": "šola.md",
+        "displayText": "ang/Angleščina"
       }
     ]
   },
@@ -511,6 +571,16 @@
       {
         "heading": "Znanje",
         "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "šola",
+        "relativePath": "šola.md"
+      },
+      {
+        "link": "ostalo",
+        "relativePath": "ostalo.md"
       }
     ]
   },
