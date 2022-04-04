@@ -1,18 +1,8 @@
 # PREDMETI
- - ZGODOVINA
-	 - [[zgo1]]
-	 - [[zgo2]]
-- PSIHOLOGIJA
-	- [[psi]]
-- NEMŠČINA
-	- [[nem]]
-- LAVr
-	- [[LAVr]]
-- SLOVENŠČINA
-	- [[slo_knj]]
-	- [[slo/Predromantika in romantika]]
-	- [[esej]]
-- BIOLOGIJA
-	- [[bio]]
-- ANGLEŠČINA
-	- [[ang]]
+ - [[zgo/Zgodovina]]
+- [[psi]]
+- [[nem]]
+- [[LAVr]]
+- [[slo/Slovenščina]]
+- [[bio]]
+- [[ang/Angleščina]]

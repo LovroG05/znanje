@@ -34,6 +34,11 @@
         "relativePath": "slo/slo_knj.md"
       },
       {
+        "link": "Predromantika in romantika",
+        "displayText": "slo/Predromantika in romantika",
+        "relativePath": "slo/Predromantika in romantika.md"
+      },
+      {
         "link": "esej",
         "relativePath": "slo/esej.md"
       },
@@ -51,6 +56,23 @@
         "fileName": "zapiski",
         "link": "šola",
         "relativePath": "zapiski.md"
+      }
+    ]
+  },
+  {
+    "fileName": "zgo1",
+    "relativePath": "zgo/zgo1.md",
+    "links": [
+      {
+        "link": "zgo2",
+        "relativePath": "zgo/zgo2.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "šola",
+        "link": "zgo1",
+        "relativePath": "šola.md"
       }
     ]
   },
@@ -117,23 +139,6 @@
         "fileName": "zgo1",
         "link": "zgo2",
         "relativePath": "zgo/zgo1.md"
-      }
-    ]
-  },
-  {
-    "fileName": "zgo1",
-    "relativePath": "zgo/zgo1.md",
-    "links": [
-      {
-        "link": "zgo2",
-        "relativePath": "zgo/zgo2.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "šola",
-        "link": "zgo1",
-        "relativePath": "šola.md"
       }
     ]
   },
@@ -258,6 +263,96 @@
         "fileName": "šola",
         "link": "esej",
         "relativePath": "šola.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Predromantika in romantika",
+    "relativePath": "slo/Predromantika in romantika.md",
+    "headings": [
+      {
+        "heading": "Predromantika in romantika",
+        "level": 1
+      },
+      {
+        "heading": "Lirika",
+        "level": 2
+      },
+      {
+        "heading": "Dramatika",
+        "level": 2
+      },
+      {
+        "heading": "Goethe: Trpljenje mladega Wertherja",
+        "level": 2
+      },
+      {
+        "heading": "Aleksander Sergejevič Puškin",
+        "level": 2
+      },
+      {
+        "heading": "George Gordon Noel Byron: Romanje grofiča Harolda",
+        "level": 2
+      },
+      {
+        "heading": "Samota",
+        "level": 3
+      },
+      {
+        "heading": "Jevgenij Onjegin",
+        "level": 2
+      },
+      {
+        "heading": "A.E. Poe",
+        "level": 2
+      },
+      {
+        "heading": "Slovenska romantika",
+        "level": 1
+      },
+      {
+        "heading": "Prešeren",
+        "level": 2
+      },
+      {
+        "heading": "Slovo od mladosti",
+        "level": 3
+      },
+      {
+        "heading": "Sonetje nesreče",
+        "level": 3
+      },
+      {
+        "heading": "Sonetni venec",
+        "level": 3
+      },
+      {
+        "heading": "Krst pri savici",
+        "level": 3
+      },
+      {
+        "heading": "Pevcu",
+        "level": 3
+      },
+      {
+        "heading": "Neiztrohnjeno srce",
+        "level": 3
+      },
+      {
+        "heading": "Zdravljica",
+        "level": 3
+      },
+      {
+        "heading": "Nezakonska mati",
+        "level": 3
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "šola",
+        "link": "Predromantika in romantika",
+        "relativePath": "šola.md",
+        "displayText": "slo/Predromantika in romantika"
       }
     ]
   },
@@ -424,7 +519,7 @@
     "relativePath": "LAVr/LAVr.md",
     "headings": [
       {
-        "heading": "Zapiski",
+        "heading": "Zapiski - LAVr",
         "level": 1
       },
       {

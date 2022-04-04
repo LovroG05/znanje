@@ -7,12 +7,8 @@
         "id": "0f796fbf8e659b43",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "slo/Predromantika in romantika.md",
-            "mode": "source",
-            "source": true
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "slo/Predromantika in romantika.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +84,15 @@
   },
   "active": "0f796fbf8e659b43",
   "lastOpenFiles": [
-    "slo/Predromantika in romantika.md",
-    "šola.md",
-    "slo/slo_knj.md",
-    "zapiski.md",
     "README.md",
-    "ostalo.md",
-    "zgo/zgo2.md",
-    "zgo/zgo1.md",
-    "slo/esej.md",
-    "psi/psi.md"
+    "zapiski.md",
+    "slo/Slovenščina.md",
+    "zgo/test1.md",
+    "šola.md",
+    "LAVr/LAVr.md",
+    "bio/bio.md",
+    "ang/Angleščina.md",
+    "zgo/Zgodovina.md",
+    "zgo/test2.md"
   ]
 }

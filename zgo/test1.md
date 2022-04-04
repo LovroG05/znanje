@@ -116,6 +116,3 @@ OBLIKE VLADANJA
 	- Benetke postanejo 3. največje mesto v Evropi (Carigrad, Cordoba)
 	- poleg Benetk pa so se pod italijanske mestne države razveljavile še: Genova, Pisa, Analfi, Firence, Milano
 	- italijanske mestne države so bile po površini majhne, zelo bogate in centralizirane (vsako mesto svojega vladarja)
-- 
-
-[[zgo2]]

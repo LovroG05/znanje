@@ -2,5 +2,6 @@
   "legacyEditor": false,
   "livePreview": false,
   "promptDelete": false,
-  "newLinkFormat": "relative"
+  "newLinkFormat": "relative",
+  "alwaysUpdateLinks": true
 }

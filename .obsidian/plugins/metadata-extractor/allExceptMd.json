@@ -48,6 +48,11 @@
       "name": "nem.docx",
       "basename": "nem",
       "relativePath": "nem/nem.docx"
+    },
+    {
+      "name": "zgradba_romantika.jpeg",
+      "basename": "zgradba_romantika",
+      "relativePath": "slo/zgradba_romantika.jpeg"
     }
   ]
 }
