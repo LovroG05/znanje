@@ -15,7 +15,7 @@ Spremembe naredi v [Obsidian](https://obsidian.md/) urejevalniku, z upoštevanje
  - v nastavitvah `Files & Links` nastavi `New link format` na `Relative path to file`
  - naloži si plugin [metadata extractor](https://github.com/kometenstaub/metadata-extractor), lahko skozi Community Plugin Browser
  - vžgi plugin
- - v nastavitvah plugina nastavi pot do metadata.json na glavno mapo znanja na tvojem računalniku (kot recimo C:\Users\Jože\znanje\metadata.json`
+ - v nastavitvah plugina nastavi pot do metadata.json na glavno mapo znanja na tvojem računalniku (kot recimo `C:\Users\Jože\znanje\metadata.json`)
  - ne pozabi si nastaviti časovnika na 1 minuto
 
 
