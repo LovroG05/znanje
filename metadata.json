@@ -50,6 +50,95 @@
     ]
   },
   {
+    "fileName": "test3",
+    "relativePath": "zgo/test3.md",
+    "headings": [
+      {
+        "heading": "RAZVOJ ZGO. DEŽEL IN SLOVENCI",
+        "level": 1
+      },
+      {
+        "heading": "NAMESTITEV SLOVANOV V VZHODNOALPSKI PROSTOR",
+        "level": 2
+      },
+      {
+        "heading": "KARANTANIJA - 1. KNEŽEVINA V ALPAH",
+        "level": 2
+      },
+      {
+        "heading": "KARNIOLA - 2. SLOVANSKA KNEŽEVINA V ALPAH",
+        "level": 2
+      },
+      {
+        "heading": "POKRISTJANJEVANJE VZHODNOALPSKIH SLOVANOV",
+        "level": 2
+      },
+      {
+        "heading": "Spodnja Panonija",
+        "level": 3
+      },
+      {
+        "heading": "ALPSKI SLOVANI IN RIMSKO-NEMŠKO CESARSTVO",
+        "level": 2
+      },
+      {
+        "heading": "DEŽELA SE VZPOSTAVI KOT DOMOVINA",
+        "level": 2
+      },
+      {
+        "heading": "PLEMIŠKE RODBINE NA SLOVENSKEM IN OBLIKOVANJE DINASTIČNIH OZEMELJ",
+        "level": 2
+      },
+      {
+        "heading": "SREDNJEVEŠKA MESTA NA SLOVENSKEM",
+        "level": 2
+      },
+      {
+        "heading": "Celinska mesta/v notranjosti",
+        "level": 3
+      },
+      {
+        "heading": "TURŠKI VPADI",
+        "level": 2
+      },
+      {
+        "heading": "Posledice",
+        "level": 3
+      },
+      {
+        "heading": "OBLIKOVANJE NOTRANJE AVSTRIJE",
+        "level": 2
+      },
+      {
+        "heading": "KMEČKI UPORI",
+        "level": 2
+      },
+      {
+        "heading": "Vzroki",
+        "level": 3
+      },
+      {
+        "heading": "REFORMACIJA NA SLOVENSKEM",
+        "level": 2
+      },
+      {
+        "heading": "PROTIREFORMACIJA IN SLOVENCI",
+        "level": 2
+      },
+      {
+        "heading": "REFORME MARIJE TEREZIJE IN JOŽEFA II.",
+        "level": 2
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Zgodovina",
+        "link": "test3",
+        "relativePath": "zgo/Zgodovina.md"
+      }
+    ]
+  },
+  {
     "fileName": "test2",
     "relativePath": "zgo/test2.md",
     "headings": [
@@ -142,6 +231,10 @@
       {
         "link": "test2",
         "relativePath": "zgo/test2.md"
+      },
+      {
+        "link": "test3",
+        "relativePath": "zgo/test3.md"
       }
     ],
     "backlinks": [

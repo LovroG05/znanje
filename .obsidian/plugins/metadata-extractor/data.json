@@ -5,7 +5,7 @@
   "tagFile": "tags.json",
   "metadataFile": "metadata.json",
   "allExceptMdFile": "allExceptMd.json",
-  "writingFrequency": "0",
+  "writingFrequency": "1",
   "writeFilesOnLaunch": true,
   "consoleLog": false
 }
