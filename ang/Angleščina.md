@@ -1,3 +1,3 @@
 # Angleščina
 ## Kazalo
-- [[slovnica]]
+- [[Slovnica]]

@@ -1,5 +1,5 @@
 # Zgodovina
 ## Kazalo
-- [[test1]]
-- [[test2]]
-- [[test3]]
+- [[Oblike vladanja]]
+- [[Družbene spremembe v evropi od 6. - 18. stoletja]]
+- [[Razvoj zgodovinskih dežel in slovenci]]
