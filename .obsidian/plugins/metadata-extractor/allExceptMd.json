@@ -13,6 +13,10 @@
       "relativePath": "bio"
     },
     {
+      "name": "lavr",
+      "relativePath": "lavr"
+    },
+    {
       "name": "nem",
       "relativePath": "nem"
     },
@@ -27,10 +31,6 @@
     {
       "name": "zgo",
       "relativePath": "zgo"
-    },
-    {
-      "name": "lavr",
-      "relativePath": "lavr"
     }
   ],
   "nonMdFiles": [
