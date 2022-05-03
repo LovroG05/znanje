@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "zgo/test3.md",
+            "file": "slo/oblikoslovje.md",
             "mode": "source",
             "source": true
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zgo/test3.md",
+                "file": "slo/oblikoslovje.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "0f796fbf8e659b43",
   "lastOpenFiles": [
+    "slo/oblikoslovje.md",
+    "slo/Slovenščina.md",
+    "slo/slo_knj.md",
     "zgo/test3.md",
     "zgo/Zgodovina.md",
     "šola.md",
     "README.md",
     "zapiski.md",
-    "slo/Slovenščina.md",
     "zgo/test1.md",
-    "LAVr/LAVr.md",
-    "bio/bio.md",
-    "ang/Angleščina.md"
+    "LAVr/LAVr.md"
   ]
 }

@@ -247,6 +247,47 @@
     ]
   },
   {
+    "fileName": "oblikoslovje",
+    "relativePath": "slo/oblikoslovje.md",
+    "headings": [
+      {
+        "heading": "Oblikoslovje",
+        "level": 1
+      },
+      {
+        "heading": "Sklanjatve",
+        "level": 2
+      },
+      {
+        "heading": "Samostalniški zaimek",
+        "level": 2
+      },
+      {
+        "heading": "Posamostaljena pridevniška beseda",
+        "level": 2
+      },
+      {
+        "heading": "Pridevniki",
+        "level": 2
+      },
+      {
+        "heading": "Stopnjevanje",
+        "level": 2
+      },
+      {
+        "heading": "Števniki",
+        "level": 2
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Slovenščina",
+        "link": "oblikoslovje",
+        "relativePath": "slo/Slovenščina.md"
+      }
+    ]
+  },
+  {
     "fileName": "slo_knj",
     "relativePath": "slo/slo_knj.md",
     "headings": [
@@ -381,6 +422,10 @@
       {
         "link": "slo_knj",
         "relativePath": "slo/slo_knj.md"
+      },
+      {
+        "link": "oblikoslovje",
+        "relativePath": "slo/oblikoslovje.md"
       }
     ],
     "backlinks": [
@@ -593,6 +638,34 @@
     ]
   },
   {
+    "fileName": "Angleščina",
+    "relativePath": "ang/Angleščina.md",
+    "headings": [
+      {
+        "heading": "Angleščina",
+        "level": 1
+      },
+      {
+        "heading": "Kazalo",
+        "level": 2
+      }
+    ],
+    "links": [
+      {
+        "link": "slovnica",
+        "relativePath": "ang/slovnica.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "šola",
+        "link": "Angleščina",
+        "relativePath": "šola.md",
+        "displayText": "ang/Angleščina"
+      }
+    ]
+  },
+  {
     "fileName": "slovnica",
     "relativePath": "ang/slovnica.md",
     "headings": [
@@ -630,40 +703,16 @@
     ]
   },
   {
-    "fileName": "Angleščina",
-    "relativePath": "ang/Angleščina.md",
-    "headings": [
-      {
-        "heading": "Angleščina",
-        "level": 1
-      },
-      {
-        "heading": "Kazalo",
-        "level": 2
-      }
-    ],
-    "links": [
-      {
-        "link": "slovnica",
-        "relativePath": "ang/slovnica.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "šola",
-        "link": "Angleščina",
-        "relativePath": "šola.md",
-        "displayText": "ang/Angleščina"
-      }
-    ]
-  },
-  {
     "fileName": "README",
     "relativePath": "README.md",
     "headings": [
       {
         "heading": "Znanje",
         "level": 1
+      },
+      {
+        "heading": "Navodila za prispevanje",
+        "level": 2
       }
     ],
     "links": [
