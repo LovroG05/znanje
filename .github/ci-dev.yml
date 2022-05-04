@@ -1,0 +1,29 @@
+
+
+name: CI-dev
+
+# Controls when the workflow will run
+on:
+  # Triggers the workflow on push or pull request events but only for the master branch
+  push:
+    branches: [ dev ]
+  pull_request:
+    branches: [ dev ]
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+jobs:
+  pull_dev:
+    runs-on: ubuntu-latest
+    name: Pull dev
+
+    steps:
+    - name: executing remote ssh commands using password
+      uses: appleboy/ssh-action@master
+      with:
+        host: ${{ secrets.HOST }}
+        username: ${{ secrets.USERNAME }}
+        password: ${{ secrets.PASSWORD }}
+        port: ${{ secrets.PORT }}
+        script: cd /mnt/twofiddy/data/dev/znanje/ && git pull --force
