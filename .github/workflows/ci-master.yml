@@ -27,4 +27,4 @@ jobs:
         username: ${{ secrets.USERNAME }}
         password: ${{ secrets.PASSWORD }}
         port: ${{ secrets.PORT }}
-        script: cd /mnt/twofiddy/data/znanje/ && git pull --force
+        script: cd /mnt/twofiddy/data/ && rm -rf znanje && git clone -b dev https://github.com/LovroG05/znanje.git
