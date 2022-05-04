@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "0f796fbf8e659b43",
+        "id": "a3ad57e7e1e660d6",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "zgo/test3.md",
-            "mode": "source",
+            "file": "README.md",
+            "mode": "preview",
             "source": true
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zgo/test3.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,17 +87,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0f796fbf8e659b43",
+  "active": "a3ad57e7e1e660d6",
   "lastOpenFiles": [
-    "zgo/test3.md",
-    "zgo/Zgodovina.md",
-    "šola.md",
     "README.md",
-    "zapiski.md",
+    "ostalo.md",
+    "zgo/Zgodovina.md",
+    "zgo/Razvoj zgodovinskih dežel in slovenci.md",
+    "zgo/Oblike vladanja.md",
+    "zgo/Družbene spremembe v evropi od 6. - 18. stoletja.md",
     "slo/Slovenščina.md",
-    "zgo/test1.md",
-    "LAVr/LAVr.md",
-    "bio/bio.md",
-    "ang/Angleščina.md"
+    "slo/zgradba_romantika.jpeg",
+    "slo/Renesansa, reformacija in razsvetljenstvo.md",
+    "slo/Predromantika in romantika.md"
   ]
 }

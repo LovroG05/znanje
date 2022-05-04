@@ -21,6 +21,6 @@ Spremembe naredi v [Obsidian](https://obsidian.md/) urejevalniku, z upoštevanje
 
 Hvala za razumevanje in ker mi ne daješ nočnih mor!
 
-[[šola]]
+[[Šola]]
 
 [[ostalo]]

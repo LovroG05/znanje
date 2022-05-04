@@ -1,7 +1,7 @@
 [
   {
-    "fileName": "šola",
-    "relativePath": "šola.md",
+    "fileName": "Šola",
+    "relativePath": "Šola.md",
     "headings": [
       {
         "heading": "PREDMETI",
@@ -15,16 +15,19 @@
         "relativePath": "zgo/Zgodovina.md"
       },
       {
-        "link": "psi",
-        "relativePath": "psi/psi.md"
+        "link": "Psihologija",
+        "displayText": "psi/Psihologija",
+        "relativePath": "psi/Psihologija.md"
       },
       {
-        "link": "nem",
-        "relativePath": "nem/nem.md"
+        "link": "Nemščina",
+        "displayText": "nem/Nemščina",
+        "relativePath": "nem/Nemščina.md"
       },
       {
-        "link": "LAVr",
-        "relativePath": "LAVr/LAVr.md"
+        "link": "Laboratorijske vaje",
+        "displayText": "lavr/Laboratorijske vaje",
+        "relativePath": "lavr/Laboratorijske vaje.md"
       },
       {
         "link": "Slovenščina",
@@ -32,8 +35,9 @@
         "relativePath": "slo/Slovenščina.md"
       },
       {
-        "link": "bio",
-        "relativePath": "bio/bio.md"
+        "link": "Biologija",
+        "displayText": "bio/Biologija",
+        "relativePath": "bio/Biologija.md"
       },
       {
         "link": "Angleščina",
@@ -44,17 +48,53 @@
     "backlinks": [
       {
         "fileName": "README",
-        "link": "šola",
+        "link": "Šola",
         "relativePath": "README.md"
       }
     ]
   },
   {
-    "fileName": "test3",
-    "relativePath": "zgo/test3.md",
+    "fileName": "Zgodovina",
+    "relativePath": "zgo/Zgodovina.md",
     "headings": [
       {
-        "heading": "RAZVOJ ZGO. DEŽEL IN SLOVENCI",
+        "heading": "Zgodovina",
+        "level": 1
+      },
+      {
+        "heading": "Kazalo",
+        "level": 2
+      }
+    ],
+    "links": [
+      {
+        "link": "Oblike vladanja",
+        "relativePath": "zgo/Oblike vladanja.md"
+      },
+      {
+        "link": "Družbene spremembe v evropi od 6. - 18. stoletja",
+        "relativePath": "zgo/Družbene spremembe v evropi od 6. - 18. stoletja.md"
+      },
+      {
+        "link": "Razvoj zgodovinskih dežel in slovenci",
+        "relativePath": "zgo/Razvoj zgodovinskih dežel in slovenci.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Šola",
+        "link": "Zgodovina",
+        "relativePath": "Šola.md",
+        "displayText": "zgo/Zgodovina"
+      }
+    ]
+  },
+  {
+    "fileName": "Razvoj zgodovinskih dežel in slovenci",
+    "relativePath": "zgo/Razvoj zgodovinskih dežel in slovenci.md",
+    "headings": [
+      {
+        "heading": "RAZVOJ ZGODOVINSKIH DEŽEL IN SLOVENCI",
         "level": 1
       },
       {
@@ -133,14 +173,25 @@
     "backlinks": [
       {
         "fileName": "Zgodovina",
-        "link": "test3",
+        "link": "Razvoj zgodovinskih dežel in slovenci",
         "relativePath": "zgo/Zgodovina.md"
       }
     ]
   },
   {
-    "fileName": "test2",
-    "relativePath": "zgo/test2.md",
+    "fileName": "Oblike vladanja",
+    "relativePath": "zgo/Oblike vladanja.md",
+    "backlinks": [
+      {
+        "fileName": "Zgodovina",
+        "link": "Oblike vladanja",
+        "relativePath": "zgo/Zgodovina.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Družbene spremembe v evropi od 6. - 18. stoletja",
+    "relativePath": "zgo/Družbene spremembe v evropi od 6. - 18. stoletja.md",
     "headings": [
       {
         "heading": "2. DRUŽBENE SPREMEMBE V EVROPI OD 6.-18. STOLETJA",
@@ -194,28 +245,17 @@
     "backlinks": [
       {
         "fileName": "Zgodovina",
-        "link": "test2",
+        "link": "Družbene spremembe v evropi od 6. - 18. stoletja",
         "relativePath": "zgo/Zgodovina.md"
       }
     ]
   },
   {
-    "fileName": "test1",
-    "relativePath": "zgo/test1.md",
-    "backlinks": [
-      {
-        "fileName": "Zgodovina",
-        "link": "test1",
-        "relativePath": "zgo/Zgodovina.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Zgodovina",
-    "relativePath": "zgo/Zgodovina.md",
+    "fileName": "Slovenščina",
+    "relativePath": "slo/Slovenščina.md",
     "headings": [
       {
-        "heading": "Zgodovina",
+        "heading": "Slovenščina",
         "level": 1
       },
       {
@@ -225,30 +265,34 @@
     ],
     "links": [
       {
-        "link": "test1",
-        "relativePath": "zgo/test1.md"
+        "link": "Esej",
+        "relativePath": "slo/Esej.md"
       },
       {
-        "link": "test2",
-        "relativePath": "zgo/test2.md"
+        "link": "Predromantika in romantika",
+        "relativePath": "slo/Predromantika in romantika.md"
       },
       {
-        "link": "test3",
-        "relativePath": "zgo/test3.md"
+        "link": "Renesansa, reformacija in razsvetljenstvo",
+        "relativePath": "slo/Renesansa, reformacija in razsvetljenstvo.md"
+      },
+      {
+        "link": "Oblikoslovje",
+        "relativePath": "slo/Oblikoslovje.md"
       }
     ],
     "backlinks": [
       {
-        "fileName": "šola",
-        "link": "Zgodovina",
-        "relativePath": "šola.md",
-        "displayText": "zgo/Zgodovina"
+        "fileName": "Šola",
+        "link": "Slovenščina",
+        "relativePath": "Šola.md",
+        "displayText": "slo/Slovenščina"
       }
     ]
   },
   {
-    "fileName": "slo_knj",
-    "relativePath": "slo/slo_knj.md",
+    "fileName": "Renesansa, reformacija in razsvetljenstvo",
+    "relativePath": "slo/Renesansa, reformacija in razsvetljenstvo.md",
     "headings": [
       {
         "heading": "SHAKESPEARE: ROMEO IN JULIJA",
@@ -334,61 +378,8 @@
     "backlinks": [
       {
         "fileName": "Slovenščina",
-        "link": "slo_knj",
+        "link": "Renesansa, reformacija in razsvetljenstvo",
         "relativePath": "slo/Slovenščina.md"
-      }
-    ]
-  },
-  {
-    "fileName": "esej",
-    "relativePath": "slo/esej.md",
-    "headings": [
-      {
-        "heading": "**ESEJ**",
-        "level": 1
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Slovenščina",
-        "link": "esej",
-        "relativePath": "slo/Slovenščina.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Slovenščina",
-    "relativePath": "slo/Slovenščina.md",
-    "headings": [
-      {
-        "heading": "Slovenščina",
-        "level": 1
-      },
-      {
-        "heading": "Kazalo",
-        "level": 2
-      }
-    ],
-    "links": [
-      {
-        "link": "esej",
-        "relativePath": "slo/esej.md"
-      },
-      {
-        "link": "Predromantika in romantika",
-        "relativePath": "slo/Predromantika in romantika.md"
-      },
-      {
-        "link": "slo_knj",
-        "relativePath": "slo/slo_knj.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "šola",
-        "link": "Slovenščina",
-        "relativePath": "šola.md",
-        "displayText": "slo/Slovenščina"
       }
     ]
   },
@@ -482,13 +473,72 @@
     ]
   },
   {
-    "fileName": "psi",
-    "relativePath": "psi/psi.md",
+    "fileName": "Oblikoslovje",
+    "relativePath": "slo/Oblikoslovje.md",
+    "headings": [
+      {
+        "heading": "Oblikoslovje",
+        "level": 1
+      },
+      {
+        "heading": "Sklanjatve",
+        "level": 2
+      },
+      {
+        "heading": "Samostalniški zaimek",
+        "level": 2
+      },
+      {
+        "heading": "Posamostaljena pridevniška beseda",
+        "level": 2
+      },
+      {
+        "heading": "Pridevniki",
+        "level": 2
+      },
+      {
+        "heading": "Stopnjevanje",
+        "level": 2
+      },
+      {
+        "heading": "Števniki",
+        "level": 2
+      }
+    ],
     "backlinks": [
       {
-        "fileName": "šola",
-        "link": "psi",
-        "relativePath": "šola.md"
+        "fileName": "Slovenščina",
+        "link": "Oblikoslovje",
+        "relativePath": "slo/Slovenščina.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Esej",
+    "relativePath": "slo/Esej.md",
+    "headings": [
+      {
+        "heading": "**ESEJ**",
+        "level": 1
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Slovenščina",
+        "link": "Esej",
+        "relativePath": "slo/Slovenščina.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Psihologija",
+    "relativePath": "psi/Psihologija.md",
+    "backlinks": [
+      {
+        "fileName": "Šola",
+        "link": "Psihologija",
+        "relativePath": "Šola.md",
+        "displayText": "psi/Psihologija"
       }
     ]
   },
@@ -504,36 +554,107 @@
     ]
   },
   {
-    "fileName": "nem",
-    "relativePath": "nem/nem.md",
+    "fileName": "Nemščina",
+    "relativePath": "nem/Nemščina.md",
     "links": [
       {
-        "link": "glagoli",
-        "relativePath": "nem/glagoli.md"
+        "link": "Glagoli",
+        "relativePath": "nem/Glagoli.md"
       }
     ],
     "backlinks": [
       {
-        "fileName": "šola",
-        "link": "nem",
-        "relativePath": "šola.md"
+        "fileName": "Šola",
+        "link": "Nemščina",
+        "relativePath": "Šola.md",
+        "displayText": "nem/Nemščina"
       }
     ]
   },
   {
-    "fileName": "glagoli",
-    "relativePath": "nem/glagoli.md",
+    "fileName": "Glagoli",
+    "relativePath": "nem/Glagoli.md",
     "backlinks": [
       {
-        "fileName": "nem",
-        "link": "glagoli",
-        "relativePath": "nem/nem.md"
+        "fileName": "Nemščina",
+        "link": "Glagoli",
+        "relativePath": "nem/Nemščina.md"
       }
     ]
   },
   {
-    "fileName": "bio",
-    "relativePath": "bio/bio.md",
+    "fileName": "Laboratorijske vaje",
+    "relativePath": "lavr/Laboratorijske vaje.md",
+    "headings": [
+      {
+        "heading": "Zapiski - LAVr",
+        "level": 1
+      },
+      {
+        "heading": "Zapiski-19-1",
+        "level": 2
+      },
+      {
+        "heading": "Zapiski-26-1",
+        "level": 2
+      },
+      {
+        "heading": "Zapiski-2-2",
+        "level": 2
+      },
+      {
+        "heading": "Zapiski-10-2",
+        "level": 2
+      },
+      {
+        "heading": "Zapiski-17-2",
+        "level": 2
+      },
+      {
+        "heading": "Zapiski-3-3",
+        "level": 2
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Šola",
+        "link": "Laboratorijske vaje",
+        "relativePath": "Šola.md",
+        "displayText": "lavr/Laboratorijske vaje"
+      }
+    ]
+  },
+  {
+    "fileName": "Biologija",
+    "relativePath": "bio/Biologija.md",
+    "headings": [
+      {
+        "heading": "Biologija",
+        "level": 1
+      },
+      {
+        "heading": "Kazalo",
+        "level": 2
+      }
+    ],
+    "links": [
+      {
+        "link": "1. polletje",
+        "relativePath": "bio/1. polletje.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Šola",
+        "link": "Biologija",
+        "relativePath": "Šola.md",
+        "displayText": "bio/Biologija"
+      }
+    ]
+  },
+  {
+    "fileName": "1. polletje",
+    "relativePath": "bio/1. polletje.md",
     "headings": [
       {
         "heading": "Terminologija",
@@ -586,15 +707,15 @@
     ],
     "backlinks": [
       {
-        "fileName": "šola",
-        "link": "bio",
-        "relativePath": "šola.md"
+        "fileName": "Biologija",
+        "link": "1. polletje",
+        "relativePath": "bio/Biologija.md"
       }
     ]
   },
   {
-    "fileName": "slovnica",
-    "relativePath": "ang/slovnica.md",
+    "fileName": "Slovnica",
+    "relativePath": "ang/Slovnica.md",
     "headings": [
       {
         "heading": "Slovnica",
@@ -624,7 +745,7 @@
     "backlinks": [
       {
         "fileName": "Angleščina",
-        "link": "slovnica",
+        "link": "Slovnica",
         "relativePath": "ang/Angleščina.md"
       }
     ]
@@ -644,15 +765,15 @@
     ],
     "links": [
       {
-        "link": "slovnica",
-        "relativePath": "ang/slovnica.md"
+        "link": "Slovnica",
+        "relativePath": "ang/Slovnica.md"
       }
     ],
     "backlinks": [
       {
-        "fileName": "šola",
+        "fileName": "Šola",
         "link": "Angleščina",
-        "relativePath": "šola.md",
+        "relativePath": "Šola.md",
         "displayText": "ang/Angleščina"
       }
     ]
@@ -664,57 +785,20 @@
       {
         "heading": "Znanje",
         "level": 1
+      },
+      {
+        "heading": "Navodila za prispevanje",
+        "level": 2
       }
     ],
     "links": [
       {
-        "link": "šola",
-        "relativePath": "šola.md"
+        "link": "Šola",
+        "relativePath": "Šola.md"
       },
       {
         "link": "ostalo",
         "relativePath": "ostalo.md"
-      }
-    ]
-  },
-  {
-    "fileName": "LAVr",
-    "relativePath": "LAVr/LAVr.md",
-    "headings": [
-      {
-        "heading": "Zapiski - LAVr",
-        "level": 1
-      },
-      {
-        "heading": "Zapiski-19-1",
-        "level": 2
-      },
-      {
-        "heading": "Zapiski-26-1",
-        "level": 2
-      },
-      {
-        "heading": "Zapiski-2-2",
-        "level": 2
-      },
-      {
-        "heading": "Zapiski-10-2",
-        "level": 2
-      },
-      {
-        "heading": "Zapiski-17-2",
-        "level": 2
-      },
-      {
-        "heading": "Zapiski-3-3",
-        "level": 2
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "šola",
-        "link": "LAVr",
-        "relativePath": "šola.md"
       }
     ]
   }

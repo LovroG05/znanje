@@ -1,6 +1,7 @@
 # Slovenščina
 ## Kazalo
-- [[esej]]
+- [[Esej]]
 - [[Predromantika in romantika]]
 - [[zgradba_romantika.jpeg]]
-- [[slo_knj]]
+- [[Renesansa, reformacija in razsvetljenstvo]]
+- [[Oblikoslovje]]
