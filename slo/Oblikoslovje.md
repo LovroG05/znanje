@@ -1,37 +1,62 @@
 # Oblikoslovje
 
+## Besedne vrste
+| Besedna vrsta   | Kaj z njo poimenujemo?  | Podvrste  |
+|:--------------- | ----------------------- | ----------|
+| Samostalniška beseda | bitja, reči, pojme | samostalnik, samostalniški zaimek, posamostaljena pridevniška beseda |
+| Pridevniška beseda | lastnost, vrsto, svojino, količino | pridevnik, pridevniški zaimek, števnik |
+| Glagol | dejanje, stanje, dogajanje, zaznavanje, spreminjanje, obstajanje, razmerje do povedanega | / |
+| Prislov | kraj, čas, način, količina, vzrok | prislov, prislovni zaimek |
+| Predlog | podredno razmerje med besedami in besednimi zvezami | / |
+| Veznik | priredno in podredno razmerje med besedami v besednih zvezah in med stavki | / |
+| Členek | presojo stvarnosti, priterjevanje, zanikanje, spraševanje | / |
+| Medmet | doživljanje stvarnosti | / |
+
+## Samostalniki
+neposredno poimenujejo bitja, reči in pojme. Če s samostalniki poimenujemo točno določena bitja ali stvari, so to lastna imena in jih pišemo z veliko začetnico. Če pa gre za splošna poimenovanja, so to občna imena in jih pišemo z malo začetnico.
+
+Samostalniki so zgrajeni iz osnove, ki je pomenski del besede in se ne spreminja, ter iz slovničnega dela besede, tj. končnice, ki se pri pregibanju spreminja. Po končnici prepoznamo slovnični spol, število, sklon in sklanjatev.
+
+Samostalniki so v slovenščini **moškega, ženskega in srednjega spola**. Spol samostalnika je v slovenščini načeloma določen slovnično. To pomeni, da na podlagi končnice v imenovalniku ednine določimo, katerega spola je beseda.
+
+V slovenščini poznamo tri slovnična števila: **ednino, dvojino in množino**. Tudi slovnično število izražamo z končnico. Tisti samostalniki, ki poznajo vsa tri slovnična števila, so **troštevilski samostalniki**.
+
+Nekaterih samostalnikov v slovenščini ne moremo šteti in tudi nimajo oblike za dvojino. Lahko jih uporabimo samo v enem slovničnem številu - ali v ednini ali v množini; to so **enoštevilski samostalniki**. Kadar lahko samostalnike uporabljamo zgolj v ednini, govorimo o neštevnih **edninskih samostalnikih**. To so pojmovna, skupna in snovna imena. **Množinski samostalniki** pa poznajo le množino.
+
+
+
 ## Sklanjatve
 
 
 | n  | 1. moška sklanjatev | | | 2. moška sklanjatev | | | 3. moška sklanjatev |
 |:--|--------------------|-|-|----------------------|-|-|---------------------|
-|   |  ED  |  DV  |  MN  |  ED  |  DV  |  MN  |  ED/DV/MN  |
-| I | -/   | -a   | -i   | -a   | -i   | -e   | -/         |
-| R | -a   | -ov  | -ov  | -e   | -/   | -/   | -/         | 
-| D | -u   | -oma | -om  | -i   | -ama | -am  | -/         |
-| T | -/   | -a   | -e   | -o   | -i   | -e   | -/         |
-| M | -u   | -ih  | -ih  | -i   | -ah  | -ah  | -/         |
-| O | -om  | -oma | -i   | -o   | -ama | -ami | -/         |
+|   |  ED       |  DV  |  MN  |  ED        |  DV  |  MN  |  ED/DV/MN     |
+| I | korak-/   | -a   | -i   | vojvod-a   | -i   | -e   | NUK-/         |
+| R | korak-a   | -ov  | -ov  | vojvod-e   | -/   | -/   | NUK-/         | 
+| D | korak-u   | -oma | -om  | vojvod-i   | -ama | -am  | NUK-/         |
+| T | korak-/   | -a   | -e   | vojvod-o   | -i   | -e   | NUK-/         |
+| M | korak-u   | -ih  | -ih  | vojvod-i   | -ah  | -ah  | NUK-/         |
+| O | korak-om  | -oma | -i   | vojvod-o   | -ama | -ami | NUK-/         |
 
 | n  | 1. ženska sklanjatev | | | 2. ženska sklanjatev | | | 3. ženska sklanjatev |
 |:--|--------------------|-|-|----------------------|-|-|---------------------|
-|   |  ED  |  DV  |  MN  |  ED  |  DV  |  MN  |  ED/DV/MN  |
-| I | -a   | -i   | -e   | -/   | -i   | -i   | -/         |
-| R | -e   | -/   | -/   | -i   | -i   | -i   | -/         | 
-| D | -i   | -ama | -am  | -i   | -ma  | -im  | -/         |
-| T | -o   | -i   | -e   | -/   | -i   | -i   | -/         |
-| M | -i   | -ah  | -ah  | -i   | -ih  | -ih  | -/         |
-| O | -o   | -ama | -ami | -jo  | -ma  | -mi  | -/         |
+|   |  ED     |  DV  |  MN  |  ED       |  DV  |  MN  |  ED/DV/MN      |
+| I | lip-a   | -i   | -e   | perut-/   | -i   | -i   | Iris-/         |
+| R | lip-e   | -/   | -/   | perut-i   | -i   | -i   | Iris-/         | 
+| D | lip-i   | -ama | -am  | perut-i   | -ma  | -im  | Iris-/         |
+| T | lip-o   | -i   | -e   | perut-/   | -i   | -i   | Iris-/         |
+| M | lip-i   | -ah  | -ah  | perut-i   | -ih  | -ih  | Iris-/         |
+| O | lip-o   | -ama | -ami | perut-jo  | -ma  | -mi  | Iris-/         |
 
 | n  | srednja sklanjatev | |
 |:--|--------------------|-|-|
-|   |  ED  |  DV  |  MN  |
-| I | -o   | -i   | -a   |
-| R | -a   | -/   | -/   |
-| D | -u   | -oma | -om  |
-| T | -o   | -i   | -a   |
-| M | -u   | -ih  | -ih  |
-| O | -om  | -oma | -i   |
+|   |  ED      |  DV  |  MN  |
+| I | mest-o   | -i   | -a   |
+| R | mest-a   | -/   | -/   |
+| D | mest-u   | -oma | -om  |
+| T | mest-o   | -i   | -a   |
+| M | mest-u   | -ih  | -ih  |
+| O | mest-om  | -oma | -i   |
 
 ## Samostalniški zaimek
 
