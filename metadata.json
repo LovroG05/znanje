@@ -43,6 +43,11 @@
         "link": "Angleščina",
         "displayText": "ang/Angleščina",
         "relativePath": "ang/Angleščina.md"
+      },
+      {
+        "link": "Računalništvo",
+        "displayText": "rač/Računalništvo",
+        "relativePath": "rač/Računalništvo.md"
       }
     ],
     "backlinks": [
@@ -677,6 +682,14 @@
       {
         "heading": "Strojna oprema",
         "level": 3
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Šola",
+        "link": "Računalništvo",
+        "relativePath": "Šola.md",
+        "displayText": "rač/Računalništvo"
       }
     ]
   },
