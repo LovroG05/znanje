@@ -3,7 +3,7 @@
   "metadataPath": "/home/lovro/Documents/Projects/znanje/metadata.json",
   "allExceptMdPath": "",
   "tagFile": "tags.json",
-  "metadataFile": "metadata.json",
+  "metadataFile": "/home/lovro/Documents/Projects/znanje/metadata.json",
   "allExceptMdFile": "allExceptMd.json",
   "writingFrequency": "1",
   "writeFilesOnLaunch": true,
