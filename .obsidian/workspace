@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "rač/Računalništvo.md",
+            "file": "Šola.md",
             "mode": "source",
             "source": true
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "rač/Računalništvo.md",
+                "file": "Šola.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "a3ad57e7e1e660d6",
   "lastOpenFiles": [
+    "Šola.md",
     "rač/Računalništvo.md",
     "slo/Oblikoslovje.md",
     "README.md",
@@ -97,7 +98,6 @@
     "zgo/Razvoj zgodovinskih dežel in slovenci.md",
     "zgo/Oblike vladanja.md",
     "zgo/Družbene spremembe v evropi od 6. - 18. stoletja.md",
-    "slo/Slovenščina.md",
-    "slo/zgradba_romantika.jpeg"
+    "slo/Slovenščina.md"
   ]
 }

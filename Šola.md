@@ -6,3 +6,4 @@
 - [[slo/Slovenščina]]
 - [[bio/Biologija]]
 - [[ang/Angleščina]]
+- [[rač/Računalništvo]]
