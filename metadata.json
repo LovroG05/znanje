@@ -43,6 +43,11 @@
         "link": "Angleščina",
         "displayText": "ang/Angleščina",
         "relativePath": "ang/Angleščina.md"
+      },
+      {
+        "link": "Računalništvo",
+        "displayText": "rač/Računalništvo",
+        "relativePath": "rač/Računalništvo.md"
       }
     ],
     "backlinks": [
@@ -535,6 +540,156 @@
         "fileName": "Slovenščina",
         "link": "Esej",
         "relativePath": "slo/Slovenščina.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Računalništvo",
+    "relativePath": "rač/Računalništvo.md",
+    "headings": [
+      {
+        "heading": "Računalništvo",
+        "level": 1
+      },
+      {
+        "heading": "Von neumannov model računalnika / Princentonska arhitektura",
+        "level": 2
+      },
+      {
+        "heading": "Značilnosti",
+        "level": 3
+      },
+      {
+        "heading": "Harvardska arhitektura",
+        "level": 2
+      },
+      {
+        "heading": "Razširjena V. Neumannova arhitektura",
+        "level": 2
+      },
+      {
+        "heading": "V.N. ozko grlo",
+        "level": 2
+      },
+      {
+        "heading": "Centralna Procesna Enota",
+        "level": 2
+      },
+      {
+        "heading": "Naloge CPE",
+        "level": 3
+      },
+      {
+        "heading": "Zgradba",
+        "level": 3
+      },
+      {
+        "heading": "Aritmetično logična enota",
+        "level": 3
+      },
+      {
+        "heading": "Krmilna enota",
+        "level": 3
+      },
+      {
+        "heading": "Vrste CPE",
+        "level": 3
+      },
+      {
+        "heading": "Lastnosti CPE",
+        "level": 3
+      },
+      {
+        "heading": "Predpomnilnik",
+        "level": 3
+      },
+      {
+        "heading": "Manj očitni načini",
+        "level": 3
+      },
+      {
+        "heading": "Kako izvesti več kot 1 ukaz v ciklu",
+        "level": 3
+      },
+      {
+        "heading": "Kaj je pomnilnik",
+        "level": 2
+      },
+      {
+        "heading": "Vrste pomnilnika",
+        "level": 3
+      },
+      {
+        "heading": "Naključni dostop (random access)",
+        "level": 3
+      },
+      {
+        "heading": "Zaporedni dostop",
+        "level": 3
+      },
+      {
+        "heading": "Kombinacija dostopa",
+        "level": 3
+      },
+      {
+        "heading": "Glavni pomnilnik",
+        "level": 2
+      },
+      {
+        "heading": "RAM",
+        "level": 3
+      },
+      {
+        "heading": "Vrste RAM",
+        "level": 4
+      },
+      {
+        "heading": "Osveževanje RAM",
+        "level": 4
+      },
+      {
+        "heading": "ROM (naključni dostop)",
+        "level": 3
+      },
+      {
+        "heading": "(EEP)ROM",
+        "level": 3
+      },
+      {
+        "heading": "EEPROM (električno zbrisljiv in programabilen bralni pomnilnik)",
+        "level": 4
+      },
+      {
+        "heading": "Vhodno/Izhodne naprave",
+        "level": 2
+      },
+      {
+        "heading": "Vhodne",
+        "level": 3
+      },
+      {
+        "heading": "Izhodne",
+        "level": 3
+      },
+      {
+        "heading": "Vhodno/Izhodno",
+        "level": 3
+      },
+      {
+        "heading": "Operacijski Sistemi",
+        "level": 2
+      },
+      {
+        "heading": "Strojna oprema",
+        "level": 3
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Šola",
+        "link": "Računalništvo",
+        "relativePath": "Šola.md",
+        "displayText": "rač/Računalništvo"
       }
     ]
   },
