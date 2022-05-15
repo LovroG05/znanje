@@ -1,9 +1,9 @@
 # Predromantika in romantika
 
-**Predromantika** napoveduje tomantično književnost in je obdobje, ki poteka sočasno z razsvetljenstvom. Vpelje drugačen pogled na svet; nove literarne vrste ... Izvor besede **romantika** izvira izvira iz romantičen/roman in pomeni tako kot v romanih nekaj fantazijskega, domišljisko lepega. Po leto 1800 pa romantična besedila, ki niso bila več strogo razumska, poučna, ampak so dajala prednost čustvom.
+**Predromantika** napoveduje tomantično književnost in je obdobje, ki poteka sočasno z razsvetljenstvom. Vpelje drugačen pogled na svet; nove literarne vrste ... Izvor besede **romantika** izvira izvira iz romantičen/roman in pomeni tako kot v romanih nekaj fantazijskega, domišljisko lepega. Po letu 1800 pa romantična besedila, ki niso bila več strogo razumska, poučna, ampak so dajala prednost čustvom.
 
 Glavne značilnosti:
-  - vpelje nov tip junaka = t.i. Romantični junak => Notranje bogat, lep, poln čustev, plemenit, ustvarjalen, estet, razočaran nad stvarnostjo, preveva gga melaholično življenjsko občutje, nenehno v sporu z družbo, čuti *romantični razkol* med lepimi ideali in stvarmi.
+  - vpelje nov tip junaka = t.i. Romantični junak => Notranje bogat, lep, poln čustev, plemenit, ustvarjalen, estet, razočaran nad stvarnostjo, preveva ga melaholično življenjsko občutje, nenehno v sporu z družbo, čuti *romantični razkol* med lepimi ideali in stvarmi.
   - v središču so čustva
   - močno poudarjajo posameznikovo svobodo
   - zanima jih narodova preteklost in ljudsko pesniško izročilo
@@ -115,7 +115,31 @@ samota - osamljenost
 		- bajronizem
 	- **ROMANJE GROFIČA HAROLDA** 
 		- romantična pesnitev, nastala med letoma 1812 in 1848
-		- *manjka snov*
+		- iz dveh delov
+		- 1. del:
+			- lirski subjekt sam ob skalah
+			- v nevarnih položajih
+			- čeprav je sam, se ne počuti samotno
+		- 2. del:
+			- med ljudmi, počuti se osamljenega
+			- samota -> osamljenost
+			- tipičn romantični junak
+			- utrujen tujec v drugem svetu
+			- nikomur ni sreča
+			- ko bi umrl, bi to čutil kot bolečino
+		- snov je zgodovinska in eksotična
+		- zelo veliko razmišlja -> miselne prvine
+		- junak je romantična oseba in invidualist
+		- čuti razkol med realnostjo in skladnostjo
+		- pogosto menanholično
+		- bjranizem == menanholija (otožnost)
+		- romanje grofiča Harolda je romantična pesnitev z štirimi spevi
+		- uporablja Spencerjevo stanco
+		- harold je tipični romantični junak -> drugi jaz
+		- je individualist, uporniški človek, z družbo je v sporu, ker meni, da ljudje ne cenijo pravih vrednot
+		- počuti se kot tujec med ljudmi, je osamljen,nesrečen, ...
+		- V pesniti je opazno svetobolje ali kojnorizem
+		- opaziti je možno tudi kult narave, junak se vanjo zateka, narava je večna, človek je pa minljiv
 
 ## Jevgenij Onjegin
 navdih za opero Čajkovskega
@@ -170,7 +194,7 @@ navdih za opero Čajkovskega
 		- Predstavniki: Čop, Prešeren, Miha Kastelic
 		- Čop je bil izjemno izobražen, zelo dobro je poznal sodobno in staro književnost, bil je poliglot. Bil je Prešernov mentor in prijatelj. Sodeloval je pri urejanju Kranjske čebelice. V spisu Slovenska abecedna vojna je posegel v književnost z zahtevanjem visoke literature v slovenščini
 	- ostali pomembni avtorji:
-		- Janez CIgler
+		- Janez Cigler
 		- Josipina Turnograjska
 		- Janez Bleiweiss
 		- Jovan Vesel Koseski
@@ -185,7 +209,7 @@ navdih za opero Čajkovskega
 		- panslavizem
 			- začetnik Jan Kolar
 			- menil je, da bi se slovani lažje uprli germanskim pritiskom, če bi bili združeni. Mali narodi naj bi opustili misel na samostojnost, podredili naj bi se Čehom, Poljakom, Rusom in Ilirom
-		- Ilirizem
+		- ilirizem
 			- prijel se je med hrvati
 			- zavzemali so se za združitev juga
 
@@ -193,7 +217,7 @@ navdih za opero Čajkovskega
 ### Slovo od mladosti
 - **1. pesem romantike**
 - napisana 1829, izdana 1830 v KČ
-- Po vsebini žalostna
+- po vsebini žalostna
 - govori o romantičnih vrednotah
 
 ### Sonetje nesreče
@@ -278,7 +302,7 @@ navdih za opero Čajkovskega
 	- Bogomila se versko spreobrne, smisel spreobrnitve pa je ljubezenska. Črtomir sprejme krščanstvo zaradi Bogomile
 
 ### Pevcu
-- Tema je pesniški poklic
+- tema je pesniški poklic
 - pesem je izrazito strogo zgrajena, je iz 5 kitic, št verzov simetrično narašča in pada 2,3,4,3,2
 - Rima ima obliko samoglasniškega trikotnika aeiou
 - vrh je v 3. kitici
