@@ -4,11 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "a3ad57e7e1e660d6",
+        "id": "72035ef7e61c96be",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "nem/Letni časi.md",
+            "mode": "source",
+            "source": true
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "nem/Letni časi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -82,17 +87,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "a3ad57e7e1e660d6",
+  "active": "72035ef7e61c96be",
   "lastOpenFiles": [
-    "Šola.md",
+    "nem/Letni časi.md",
+    "nem/Nemščina.md",
     "rač/Računalništvo.md",
+    "Šola.md",
     "slo/Oblikoslovje.md",
     "README.md",
     "ostalo.md",
     "zgo/Zgodovina.md",
     "zgo/Razvoj zgodovinskih dežel in slovenci.md",
-    "zgo/Oblike vladanja.md",
-    "zgo/Družbene spremembe v evropi od 6. - 18. stoletja.md",
-    "slo/Slovenščina.md"
+    "zgo/Oblike vladanja.md"
   ]
 }

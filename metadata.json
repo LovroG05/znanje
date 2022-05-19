@@ -717,12 +717,45 @@
     ]
   },
   {
+    "fileName": "Letni časi",
+    "relativePath": "nem/Letni časi.md",
+    "headings": [
+      {
+        "heading": "Pomlad",
+        "level": 2
+      },
+      {
+        "heading": "Poletje",
+        "level": 2
+      },
+      {
+        "heading": "Jesen",
+        "level": 2
+      },
+      {
+        "heading": "Zima",
+        "level": 2
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Nemščina",
+        "link": "Letni časi",
+        "relativePath": "nem/Nemščina.md"
+      }
+    ]
+  },
+  {
     "fileName": "Nemščina",
     "relativePath": "nem/Nemščina.md",
     "links": [
       {
         "link": "Glagoli",
         "relativePath": "nem/Glagoli.md"
+      },
+      {
+        "link": "Letni časi",
+        "relativePath": "nem/Letni časi.md"
       }
     ],
     "backlinks": [
