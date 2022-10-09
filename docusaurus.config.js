@@ -29,9 +29,6 @@ const config = {
 					routeBasePath: "product",
 					sidebarPath: require.resolve("./sidebars.js").tutorialSidebar,
 				},
-				blog: {
-					showReadingTime: true,
-				},
 				theme: {
 					customCss: require.resolve("./src/css/custom.css"),
 				},
@@ -68,12 +65,7 @@ const config = {
 						label: "Gimnazija"
 					},
 					{
-						to: "/blog",
-						label: "Blog",
-						position: "left"
-					},
-					{
-						href: "https://github.com/facebook/docusaurus",
+						href: "https://github.com/LovroG05/znanje",
 						label: "GitHub",
 						position: "right",
 					},
@@ -112,17 +104,13 @@ const config = {
 						title: "More",
 						items: [
 							{
-								label: "Blog",
-								to: "/blog",
-							},
-							{
 								label: "GitHub",
 								href: "https://github.com/facebook/docusaurus",
 							},
 						],
 					},
 				],
-				copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+				copyright: `Copyright © ${new Date().getFullYear()} Znanje. Od vegovcov za vas.`,
 			},
 			prism: {
 				theme: lightCodeTheme,
