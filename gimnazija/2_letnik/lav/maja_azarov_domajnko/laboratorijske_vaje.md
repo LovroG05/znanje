@@ -1,5 +1,5 @@
 ---
-label: Laboratorijske Vaje
+title: Laboratorijske Vaje
 ---
 
 # Zapiski - LAVr
@@ -28,7 +28,6 @@ label: Laboratorijske Vaje
 - vi na tutorialu
 - filesystem
 
-
 ## Zapiski-10-2
 
 - env variables
@@ -52,5 +51,3 @@ label: Laboratorijske Vaje
 - men se ne da
 - test prestavlen na 31.3.
 - ponavlamo k šoje
-
-<hr>

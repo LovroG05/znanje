@@ -65,24 +65,24 @@ organizem
 # Tkiva človeškega telesa
 
 1. Krovno tkivo
-  1. tipi epitela
-    1. ploščati
-    2. kubični
-    3. cilindrični
-    4. emoclarini
-    5. dvoslojni
-    6. večslojni
+1. tipi epitela
+   1. ploščati
+   2. kubični
+   3. cilindrični
+   4. emoclarini
+   5. dvoslojni
+   6. večslojni
 2. Vezivno in orarno tkivo
-  1. kri, kosti, hrustanec
+1. kri, kosti, hrustanec
 3. Mišično tkivo
-  1. Prečno-progasto
-  2. srčno
-  3. gladko
+1. Prečno-progasto
+2. srčno
+3. gladko
 4. Živčno tkivo
-  1. nevroni
-  2. glija celice - pomožne celice
+1. nevroni
+2. glija celice - pomožne celice
 5. Tumorsko tkivo
-  1. benigno : maligno -\&gt; dela zasevke/metastaze
+1. benigno : maligno -\&gt; dela zasevke/metastaze
 
 Pri celici se pokvari ukaz &quot;stop delitev&quot;
 
@@ -138,43 +138,42 @@ Akutna bolezen : Kronična bolezen
 # OKOSTJE
 
 1. Hrustančno tkivo (osto)
-  1. Po 2 celici v lakumi (prostorček za 2 hrustančni celici)
-  2. HRUSTANEC -\&gt; KOST (ozifikacija, zakostenevanje)
+1. Po 2 celici v lakumi (prostorček za 2 hrustančni celici)
+2. HRUSTANEC -\&gt; KOST (ozifikacija, zakostenevanje)
 2. Kostno tkivo (osteo)
-  1. kompaktno kostno tkivo (osteam)
-  2. 
-	  1. ![](https://lh4.googleusercontent.com/fZsMAludAGU63j8RhShDw1S7G3qB8ocUcQVu0L2Ipo4A9Fb4nr1S6Px3x0gid5DT_74DjlNu2B2_89e1hyyNOfkKYSEb_zsrswnHY2FRnETkrB7ikaJDvh6f_bzS0AKrz96RdN18)
-	  2. ![](https://lh6.googleusercontent.com/C_hT7UtYYWVG5Lm42u5-uSD9opBPEj1nmteaF2JiWGGeEHpsdmx730QvjQxllVA_HoRpw0LrTNuWHiwR-vwsAjQVIeRTPPUutBkcsICz9IDe2YvyhxGBkH4mNiJ-WlS38VgKg5_H)
+1. kompaktno kostno tkivo (osteam)
+2.
+    1. ![](https://lh4.googleusercontent.com/fZsMAludAGU63j8RhShDw1S7G3qB8ocUcQVu0L2Ipo4A9Fb4nr1S6Px3x0gid5DT_74DjlNu2B2_89e1hyyNOfkKYSEb_zsrswnHY2FRnETkrB7ikaJDvh6f_bzS0AKrz96RdN18)
+    2. ![](https://lh6.googleusercontent.com/C_hT7UtYYWVG5Lm42u5-uSD9opBPEj1nmteaF2JiWGGeEHpsdmx730QvjQxllVA_HoRpw0LrTNuWHiwR-vwsAjQVIeRTPPUutBkcsICz9IDe2YvyhxGBkH4mNiJ-WlS38VgKg5_H)
 3. Tipi kosti
-  1. dolge
-  2. kratke
-  3. nepravilno oblikovane (vretence, ...)
-  4. ploščate
+1. dolge
+2. kratke
+3. nepravilno oblikovane (vretence, ...)
+4. ploščate
 
 # Kostni stiki
 
 1. Negibljivi (živi)
 2. Gibljivi (sklepi)
-  1. zaprosta oklera
-  2. zgradba sklepa
+1. zaprosta oklera
+2. zgradba sklepa
 
 #
-
 
 # Kosti lobanje
 
 1. Možganski del
-  1. čelnica
-  2. temenica
-  3. zatilnica
-  4. učnica
-  5. zagozdnica
+1. čelnica
+2. temenica
+3. zatilnica
+4. učnica
+5. zagozdnica
 2. Obrazni del
-  1. ličnica
-  2. nosnica
-  3. solznica
-  4. zitka
-  5. čeljustnica (zgornja, spodnja)
+1. ličnica
+2. nosnica
+3. solznica
+4. zitka
+5. čeljustnica (zgornja, spodnja)
 
 ![](https://lh5.googleusercontent.com/_CXTuR5Oo9NvhTH5u3GnApNUJ48Ochw5fFdTx0cxQ0PKJKYPn6tB9zd9esv25Iffc4bD7mTti4Kn2lzJFGAz-7Ln2wYcWYjTkI-cPP3he-7D0mD3nCHvY-mxG2BaLMFxNLS6gj7o)
 

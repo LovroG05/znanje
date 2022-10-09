@@ -1,7 +1,9 @@
 # Slovnica
 
 ## 1. Časi
+
 ### Simple tenses
+
 Govorec dejanje dojema in kaže kot sedanje/preteklo/prihodnje.
 
 | Čas                | Oblika            | Primer                         |
@@ -11,6 +13,7 @@ Govorec dejanje dojema in kaže kot sedanje/preteklo/prihodnje.
 | **FUTURE SIMPLE**  | os. + will + inf. | *I will meditate next week.*   |
 
 ### Continuous tenses
+
 Izražajo dejanje v teku.
 
 | Čas                    | Oblika                     | Primer                                 |
@@ -20,6 +23,7 @@ Izražajo dejanje v teku.
 | **FUTURE CONTINUOUS**  | os. + will be + gl. -ing   | *I will be flying to Hawaii tomorrow.* |
 
 ### Perfect tenses
+
 Izražajo, da je dejanje bilo ali bo končano pred nekim drugim dejanjem ali pred določeno točko.
 
 `past participle = 3. oblika glagola`
@@ -31,6 +35,7 @@ Izražajo, da je dejanje bilo ali bo končano pred nekim drugim dejanjem ali pre
 | **FUTURE PERFECT**  | os. + will have + past participle | *I will have done my homework by friday.*      |
 
 ### Perfect continuous tenses
+
 Dejanja, ki trajajo, se dogajajo pred določeno točko ali obdobjem v sedanjosti, pretelkosti ali prihodnosti.
 
 | Čas                            | Oblika                          | Primer                                                                   |
