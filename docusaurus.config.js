@@ -25,9 +25,9 @@ const config = {
 			/** @type {import('@docusaurus/preset-classic').Options} */
 			({
 				docs: {
-					path: "product",
-					routeBasePath: "product",
-					sidebarPath: require.resolve("./sidebars.js").tutorialSidebar,
+					path: "testi",
+					routeBasePath: "testi",
+					sidebarPath: require.resolve("./sidebars.js"),
 				},
 				theme: {
 					customCss: require.resolve("./src/css/custom.css"),
@@ -43,7 +43,7 @@ const config = {
 				id: "gimnazija",
 				path: "gimnazija",
 				routeBasePath: "gimnazija",
-				sidebarPath: require.resolve("./sidebars.js").gimazijaSidebar,
+				sidebarPath: require.resolve("./sidebars.js"),
 			},
 		],
 	],
@@ -65,6 +65,12 @@ const config = {
 						label: "Gimnazija"
 					},
 					{
+						type: 'doc',
+						docId: 'intro',
+						position: 'left',
+						label: 'Testi',
+					},
+					{
 						href: "https://github.com/LovroG05/znanje",
 						label: "GitHub",
 						position: "right",
@@ -75,11 +81,11 @@ const config = {
 				style: "dark",
 				links: [
 					{
-						title: "Docs",
+						title: "Programi",
 						items: [
 							{
-								label: "Tutorial",
-								to: "/docs/intro",
+								label: "Gimnazija",
+								to: "/gimnazija",
 							},
 						],
 					},
