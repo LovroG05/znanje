@@ -90,28 +90,31 @@ const config = {
 						],
 					},
 					{
-						title: "Community",
+						title: "Uporabne zadeve",
 						items: [
 							{
-								label: "Stack Overflow",
-								href: "https://stackoverflow.com/questions/tagged/docusaurus",
+								label: "Bewiesen",
+								href: "https://play.google.com/store/apps/details?id=com.neleks.bewiesen",
 							},
 							{
-								label: "Discord",
-								href: "https://discordapp.com/invite/docusaurus",
-							},
-							{
-								label: "Twitter",
-								href: "https://twitter.com/docusaurus",
+								label: "vFinder",
+								href: "https://vfinder.janhar.si",
 							},
 						],
 					},
 					{
-						title: "More",
+						title: "Kontakt",
 						items: [
 							{
-								label: "GitHub",
-								href: "https://github.com/facebook/docusaurus",
+								label: "Github",
+								href: "https://github.com/LovroG05/znanje",
+							},
+							{
+								label: "@LovroG05",
+								href: "https://github.com/LovroG05",
+							},							{
+								label: "@chocoearly44",
+								href: "https://github.com/chocoearly44",
 							},
 						],
 					},
