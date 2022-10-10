@@ -1,4 +1,6 @@
-# RAZVOJ ZGODOVINSKIH DEŽEL IN SLOVENCI
+---
+title: 1. Razvoj zgodovinskih dežel in slovenci
+---
 
 ## NAMESTITEV SLOVANOV V VZHODNOALPSKI PROSTOR
 - Slovani so se naselili v vzhodnoalpski prostor med 6. in 9. stoletjem
