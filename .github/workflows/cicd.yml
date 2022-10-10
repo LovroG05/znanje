@@ -24,6 +24,8 @@ jobs:
         run: npm install
       - name: Build docusaurus
         run: npm run build
+      - name: Rename folder
+        run: mv build/ _site/
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
         
