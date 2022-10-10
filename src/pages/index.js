@@ -23,7 +23,7 @@ function HomepageFeatures() {
 			<div className="container">
 				<div className="row">
 					<h2>Ta repozitorij vsebuje teste in digitalizirane zapiske pouka na Vegovi&reg; Ljubljana, združene v eno bazo znanja.</h2>
-					<h4>Zapiski so pogosto prepisani od drugih avtorjev in so basically cheatcodes za narest Vegovo&reg;.</h4>
+					<h4>Zapiski so pogosto prepisani od drugih avtorjev in so basically cheatcodes za narest Vegovo&reg;. Če želiš prispevati, si poglej <a href="https://github.com/LovroG05/znanje">GitHub repository</a> kjer so shranjeni zapiski v markdown formatu.</h4>
 				</div>
 			</div>
 		</section>
@@ -34,8 +34,8 @@ export default function Home() {
 	const {siteConfig} = useDocusaurusContext();
 	return (
 		<Layout
-			title={`Hello from ${siteConfig.title}`}
-			description="Description will go into a meta tag in <head />">
+			title={`${siteConfig.title}`}
+			description="Ta repozitorij vsebuje teste in digitalizirane zapiske pouka na Vegovi&reg; Ljubljana, združene v eno bazo znanja.">
 			<HomepageHeader />
 			<main>
 				<HomepageFeatures />

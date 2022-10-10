@@ -1,44 +1,15 @@
-# Website
+# Znanje
 
-This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
+Ta repository vsebuje vse moje digitalizirane zapiske, prepisane v markdown formatu.
 
-### Installation
+Zapiski so pogosto prepisani od drugih avtorjev in so basically cheatcodes za narest Vegovo&reg;.
 
-```
-$ yarn
-```
+For future use
 
-### Local Development
+## Navodila za prispevanje
 
-```
-$ yarn start
-```
+Forkaj projekt, naredi spremembe tam, nato pa naredu pull request na `dev` vejo
 
-This command starts a local development server and opens up a browser window. Most changes are reflected live without
-having to restart the server.
+Hvala za razumevanje in ker mi ne daješ nočnih mor!
 
-### Build
 
-```
-$ yarn build
-```
-
-This command generates static content into the `build` directory and can be served using any static contents hosting
-service.
-
-### Deployment
-
-Using SSH:
-
-```
-$ USE_SSH=true yarn deploy
-```
-
-Not using SSH:
-
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to
-the `gh-pages` branch.

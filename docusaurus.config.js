@@ -5,14 +5,14 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 const config = {
 	title: "Znanje",
 	tagline: "Zakaj bi pisal, če lahko bereš.",
-	url: "https://your-docusaurus-test-site.com",
+	url: "https://znanje.tk",
 	baseUrl: "/",
 	onBrokenLinks: "throw",
 	onBrokenMarkdownLinks: "warn",
 	favicon: "img/logo.svg",
 
-	organizationName: "facebook",
-	projectName: "docusaurus",
+	organizationName: "LovroG05",
+	projectName: "Znanje",
 
 	i18n: {
 		defaultLocale: "en",
@@ -111,7 +111,7 @@ const config = {
 							},
 							{
 								label: "@LovroG05",
-								href: "https://github.com/LovroG05",
+								href: "https://perchperkins.ml/",
 							},							{
 								label: "@chocoearly44",
 								href: "https://github.com/chocoearly44",
