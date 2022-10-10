@@ -1,7 +1,5 @@
 RAZISKOVALNE TEHNIKE
 
-  
-
 - intervju
 
 - vprašalniki
@@ -12,11 +10,7 @@ RAZISKOVALNE TEHNIKE
 
 - sociometrija
 
-  
-
 INTERVJU
-
-  
 
 - manjše št. udeležencev
 
@@ -26,11 +20,7 @@ INTERVJU
 
 - težji za analizo
 
-  
-
 vprašamo se po:
-
-  
 
 - stališčih
 
@@ -40,11 +30,7 @@ vprašamo se po:
 
 - vrednotah
 
-  
-
 VPRAŠALNIK
-
-  
 
 - ODPRTEGA TIPA
 
@@ -64,21 +50,13 @@ VPRAŠALNIK
 
 - mejenost z odgovori
 
-  
-
 PSIHOLOŠKI/PSIHOMETRIČNI TESTI
-
-  
 
 - testi SPOSOBNOSTI (iq, dosežek, ustvarjalnost, znanje, spretnosti)
 
 - testi OSEBNOSTI (lastnosti, vrednote, stališča, značaja, interese)
 
-  
-
 značilnosti
-
-  
 
 - bjektivnost (postopek, rezultati in interpretacija neodvisni od izvajalca)
 
@@ -90,19 +68,11 @@ značilnosti
 
 - bčutljivost (meri majhne razlike med ljudmi)
 
-  
-
 OCENJEVALNE LESTVICE
-
-  
 
 ugotavljajo stopnje izraženosti proučevanih pojavov.
 
-  
-
 Vrste:
-
-  
 
 - pisne (pisni odgovor)
 
@@ -110,19 +80,11 @@ Vrste:
 
 - grafične (-------x------------)
 
-  
-
 merimo: interese, stališča, vrednote, zadovoljstvo,....
-
-  
 
 OBČUTENJE IN ZAZNAVANJE
 
-  
-
 Proces nastanka zaznave:
-
-  
 
 1. sprejemanje z čuti
 
@@ -132,29 +94,17 @@ Proces nastanka zaznave:
 
 4. interpretacija
 
-  
-
 Občutenje in zaznavanje je bistveno za:
-
-  
 
 - povezava živo bitje - okolje
 
 - prilagoditev na okolje (zagotavljanje preživetja) evolucija čutil
 
-  
-
 občutenje - je proces sprejemanja dražljajev iz okolja in njihove pretvorbe v živčno vzburjenje
-
-  
 
 zaznavanje - je proces organizacije in interpretacije občutkov (informacij, ki jih sprejemamo z čutili)
 
-  
-
 Fiziološki vidik zaznavanja:
-
-  
 
 1. dražljaji
 
@@ -166,19 +116,11 @@ Fiziološki vidik zaznavanja:
 
 5. asociacijska središča (občutki se medsebojno povežejo in uskladijo z info. iz spomina in se povežejo v ZAZNAVO) - ne prepoznamo dražljajev (če je poškodovano) npr.: poškodovani živci pomeni, da ne bomo občutili
 
-  
-
 Zaznavna organizacija
-
-  
 
 Proces organizacije čutnih info. v smiselne celote ali objekte. Poteka po načelih zaznavne organizacije (ta pojasnjujejo, kako zaznavamo objekte kot ločene med seboj in od podlage)
 
-  
-
 NAČELO LIKA IN PODLAGE
-
-  
 
 - posamezne dele zaznavamo kot like, izločene iz polja, ki tvori podlago
 
@@ -188,25 +130,14 @@ NAČELO LIKA IN PODLAGE
 
 - vpliv NOTRANJIH DEJAVNIKOV (znanje, interesi, izkušnje)
 
-  
-```
 | VRSTA DRAŽLJAJEV | ČUTILO/ČUTNI ORGAN | ČUTNICE/RECEPTORJI | OBČUTEK |
-
 | ---------------- | ------------------ | ------------------ | ------- |
-
 | svetlobni        | oko          | paločice in čepki na mrežnici | vid |
-
 | mehanski | uho, koža  | čutnice v polžu, čutnice za tip in bolečino | sluh, tip, bolečina |
-
 | toplotni | koža | čutnice za toplo in čutnice za hladno na površini kože | toplo/hladno |
-
 | kemični | nos, jezik | čutnice v sluznici nosu in na površini jezika | okus, vonj |
-```
-  
 
 NAČELO ZDRUŽEVANJA (grupiranja)
-
-  
 
 - načelo bližine - elemente, ki so si prostorsko in časovno blizu, dojemamo kot celoto
 
@@ -214,46 +145,25 @@ NAČELO ZDRUŽEVANJA (grupiranja)
 
 - zaprtosti - če je del celote okrnjen, še vedno zaznavamo neko celoto
 
-  
-
 UČENJE IN POMNENJE
-
-  
 
 Spomin = sposobnost pomnenja
 
-  
-
 Pomnenje = proces osvajanja, ohranjanja in onavljanja info.
-
-  
 
 Uprizarjanje = rač. zapis informacije
 
-  
-
 Ohranjanje = hranjenje za prihodnost
-
-  
 
 Obnavljanje = ozaveščanje shranjenega
 
-  
 ![](https://lh4.googleusercontent.com/R9pn6FWqwTjRby_GRKwRua1If2hKsw2rMk7G5b-W7Lwb0MxspbPhVKwzOQH4MozwCbxBT4FoA-h6zKPnu8sEZU8VyeSFwu-bbU_cdCslczwiKVWs88oIvdFvlUZgkGiY7NpfVlFv)
-
-  
 
 DOLGOTRAJNI SPOMIN
 
-  
-
 Vrsta spomina, kjer je shranjeno neomejeno št. podatkov, te so med seboj dobro povezani in organizirani, kar omogoča njihovo obnavljanje
 
-  
-
 Shranjene so kot:
-
-  
 
 - predstave (vidne, slušne, gibalne)
 
@@ -269,15 +179,9 @@ Shranjene so kot:
 
 - postopki, veščine
 
-  
-
 KAKOVOST SPREMEMBE ZAPOMNITVE GRADIVA
 
-  
-
 Nastanek sistemskih sprememb:
-
-  
 
 - pomen (drugi poudarki, zaporedje, dodajanje, vplivajo čustva)
 
@@ -285,11 +189,7 @@ Nastanek sistemskih sprememb:
 
 - konvencionalnost (skladno z osebnim in socialnim okoljem)
 
-  
-
 Od najbolje do najslabše naučenega:
-
-  
 
 1. Priklic
 
@@ -297,15 +197,9 @@ Od najbolje do najslabše naučenega:
 
 3. Prihranek časa
 
-  
-
 MIŠLJENJE
 
-  
-
 Zajema najrazličnejše spoznavne procese:
-
-  
 
 - predstavljanje
 
@@ -325,19 +219,11 @@ Zajema najrazličnejše spoznavne procese:
 
 - reševanje problemov
 
-  
-
 Razmišljanje o mišljenju - metamišljenje, metakognicija
-
-  
 
 Mišljenje je proces odkrivanja novih odnosov med info. oz. proces reševanja miselnih problemov
 
-  
-
 VRSTE
-
-  
 
 - realistično (kombinacije stvarnih dejstev)
 
@@ -351,23 +237,14 @@ VRSTE
 
 - divergentno (razvijanje številnih zamisli, oblikovanje več rešitev za dani problem)
 
-  
-
 USTVARJALNOST
-
-  
 
 je miselni proces, katerega rezultat so oriinalni in ustrezni uspeški
 
-  
-
 VIDIK USTVARJALNOSTI
-
-  
 
 1. vidik - ORIGINALNOST (izvirnost)
 
-  
 
 - nove rešitve
 
@@ -375,21 +252,15 @@ VIDIK USTVARJALNOSTI
 
 - dkrivanje novih problemov
 
-  
 
 1. vidik - UStREZNOST DOSEŽK OKOLIŠČINAM
 
-  
 
 - uporabnost, a ne nujno v praktičnem smislu, tudi ni nujno trenutno in konkretno
 
 - uporabnosti ustvarjenih dosežkov lahko sodimo tudi kasneje - kratkoročni pogled ni povsem ustrezen
 
-  
-
 VPLIV NA USTVARJANOST
-
-  
 
 - vrednostne enakosti
 
@@ -409,11 +280,7 @@ VPLIV NA USTVARJANOST
 
 - spodbude, investicije…
 
-  
-
 OSEBNOSTNE ZNAČILNOSTI USTVARJALNIH OSEB
-
-  
 
 - avtonomnost (neodvisnost) - kritično mišljenje
 
@@ -427,19 +294,11 @@ OSEBNOSTNE ZNAČILNOSTI USTVARJALNIH OSEB
 
 - radovednost
 
-  
-
 MERJENJE USTVARJALNOSTI
-
-  
 
 - test ustvarjalnosti
 
-  
-
 ČUSTVA
-
-  
 
 - so duševni procesi, ki izražajo vrednostni odnos do zunanjega sveta ali do sebe
 
@@ -447,11 +306,7 @@ MERJENJE USTVARJALNOSTI
 
 - čustva doživljamo v okoliščinah, ki jih ocenimo kot za nas subjektivno pomembne
 
-  
-
 primeri
-
-  
 
 - čustva do sebe:
 
@@ -467,7 +322,6 @@ primeri
 
 - vsel, ker odpade pouk
 
-  
 
 - intenzivnost in vrsta čustev odvisna od kognitivne ocene situacije (način kako ovrednotimo in si razlagamo situacijo)
 
@@ -479,11 +333,7 @@ primeri
 
 - strah
 
-  
-
 SESTAVNE KOMPONENTE ČUSTEV
-
-  
 
 - subjektivno doživljanje čustva (katero čustvo, intenzivnost)
 
@@ -497,23 +347,13 @@ SESTAVNE KOMPONENTE ČUSTEV
 
 - vodi k prilagoditvenemu vedenju oz. spoprijemu s situacijo (kaj naredimo v trenutku ali po tem, ko doživljamo čustvo)
 
-  
-
 TEMELJNA IN KOMP. ČUSTVA
-
-  
 
 TEMELJNA: veselje, žalost, jeza, strah, presenečenje, gnus
 
-  
-
 KOMPLEKSNA: sestavljena, večji družbeno - kulturni vpliv, pojavij se kasneje v razvoju
 
-  
-
 FUNKCIJE ČUSTEV
-
-  
 
 1. prilagoditvena (približevanje/oddaljevanje)
 
@@ -531,11 +371,7 @@ FUNKCIJE ČUSTEV
 
 1. Čustveni izrazi in vedenje - kot info. drugim, kako uravnati svoje vedenje
 
-  
-
 DIMENZIJE ČUSTEV
-
-  
 
 - vrednost (+/-)
 
@@ -543,11 +379,7 @@ DIMENZIJE ČUSTEV
 
 - aktivnost (vzburjajoča/pomirjajoča) - fiziološki vidik
 
-  
-
 AFEKTI IN RAZPOLOŽENJA
-
-  
 
 1. Afekti
 
@@ -565,11 +397,7 @@ AFEKTI IN RAZPOLOŽENJA
 
 3. čustvena podlaga vedenja in doživljanja (tesnobnost, potrtost, (ne)zadovoljnost)
 
-  
-
 ČUSTVENA ZRELOST
-
-  
 
 - ustreznost glede na okoliščine
 
@@ -577,11 +405,7 @@ AFEKTI IN RAZPOLOŽENJA
 
 - raznovrstnost in kompleksnost čustvovanja
 
-  
-
 Ustreznost glede na okoliščine
-
-  
 
 - vrsta čustva, intenzivnost in način izražanja
 
@@ -589,11 +413,7 @@ Ustreznost glede na okoliščine
 
 - glede na funkcionalnost čustva v situaciji
 
-  
-
 Uravnavanje, doživljanje in izražanje
-
-  
 
 - znak čustvene nezrelosti:
 
@@ -605,19 +425,11 @@ Uravnavanje, doživljanje in izražanje
 
 - uravnavanje izražanja: čustva znamo ustrezno izraziti z besedami ali vedenjem
 
-  
-
 Raznovrstnost? in kompleksnost
-
-  
 
 - zmožnost doživljanja in izražanja vseh čustev (pozitivnih, negativnih, socialno manj neželenih?, kompleksnih - empatija, sram, krivda)
 
-  
-
 PREPOZNAVANJE IN IZRAŽANJE ČUSTEV
-
-  
 
 - nebesedno sporazumevanje
 
@@ -631,15 +443,9 @@ PREPOZNAVANJE IN IZRAŽANJE ČUSTEV
 
 - govorica telesa: izrazi čustev, mimika obraza, stik z pogledom, gibi, kretnje, telesna drža (toga/sproščena/napeta). Položaj mišic na obrazu, obrvi, usta, gibi in telesna drža za prepoznavanje prikritih čustev
 
-  
-
 MOTIVACIJA
 
-  
-
 - Motivacija so vsi duševni procesi spodbujevanja, vzdrževanja in usmerjanja telesnih in duševnih dejavnosti, zato da bi uresničil cilj
-
-  
 
 	1. Motivacija POTISKANJA
 	
@@ -649,39 +455,21 @@ MOTIVACIJA
 	
 	1. cilji, ideali, vrednote usmerjajo naše vedenje, ker se nam zdijo privlačni
 
-  
-
 - potreba ni nujno izhodišče, lahko je cilj (v nas obsodijo potrebe in nas pritegnejo v motivirano vedenje)
-
-  
 
 ČUSTVA KOT POSLEDICA (NE)LAGODJA:
 
-  
-
 Občutki: žeja, lakota, utrujenost, vročina… -\&gt; (negativna) čustva
-
-  
 
 ČUSTVA KOT PREDHODNIK MOTIVACIJSKE DEJAVNOSTI
 
-  
-
 Približevanje/izogibanje/ambivalenca? cilja
-
-  
 
 (&quot;rad igram košarko, uživam v njej&quot; -\&gt; &quot;poleti se bom udeležil košarkarskega tabora&quot;)
 
-  
-
 Vrednote so POSPLOŠENI CILJI. Vrednote: družina, finance, ljubezen…
 
-  
-
 ZAVESTNI MOTIVI
-
-  
 
 1. zavedanje cilja
 
@@ -691,61 +479,30 @@ ZAVESTNI MOTIVI
 
 4. zavestno odločanje o izbiri med cilji in med načini uresničevanja -\&gt; MIŠLJENJE
 
-  
-
 VOLJA -\&gt; zavestno hotenje + volja odločitev
-
-  
 
 NEZAVEDNI MOTIVI (kaj, zakaj to hočem?)
 
-  
-
 lahko vemo, kaj hočemo doseči vemo tudi kako, ne vemo pa, zakaj to hočemo.
-
-  
 
 Ne zavedamo se pravega cilja našega delovanja (kaj hočemo)
 
-  
-
 VRSTE POTREB
-
-  
 
 fiziološke/prirojene/univerzalne
 
-  
-
 nepopolno fiziološko ravnovesje
-
-  
-
-	- potrebe po ohranitvi:
-	
-	- sebe: kisik, voda, hrana, počitek (typed @3AM), temp…
-	
-	- vrste, spolnost, potomci
-
-  
+  - potrebe po ohranitvi:
+  - sebe: kisik, voda, hrana, počitek (typed @3AM), temp…
+  - vrste, spolnost, potomci
 
 Psihosocialne
-
-  
-
-	- izvirajo iz nepopolnega duševnega ravnovesja
-	
-	- so povezana s člo, življ. v skupini
-
-  
+  - izvirajo iz nepopolnega duševnega ravnovesja
+  - so povezana s člo, življ. v skupini
 
 Nekatere so pridobljene (ustvarjanju, lepoti, urejenosti), za druge si znanstveniki še niso enotni ali so prirojene ali naučene (po pripadnosti, spoštovanju)
 
-  
-
 ABRAHAM MASLOW
-
-  
 
 - delitev potreb na osnove (preživetje) jih na višje (potrebe po osebnosti rasti)
 
