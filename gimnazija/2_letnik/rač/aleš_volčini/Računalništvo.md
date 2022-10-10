@@ -231,23 +231,23 @@ Kako lahko z elektriko predstavimo 0 in 1?
 - kratica ROM je danes sinonim za pomnilnik v katerega ne moremo PROSTO pisati
 
 ### (EEP)ROM
-- ROM je zapisan v tovarni, mi pa želimo pomn. programirati sami
-- PROM (Programmable ROM)
+  - ROM je zapisan v tovarni, mi pa želimo pomn. programirati sami
+  - PROM (Programmable ROM)
 	- 1x programabilen ROM 
-- fuses - varovalke
-- EPROM (Eraseable PROM)
+  - fuses - varovalke
+  - EPROM (Eraseable PROM)
 	- zbrisljiv pod UV svetlobo
 	- dolgotrajni postopek brisanja
 	- večkratni zapis
-Za pisanje v PROM in EPROM potrebujejo zunanju programator
+  - Za pisanje v PROM in EPROM potrebujejo zunanju programator
 
 #### EEPROM (električno zbrisljiv in programabilen bralni pomnilnik)
-- je vrsta pomnilnika EPROM
-- vsebino brišemo z močnimi ele. sunkom in ponovno vpisujemo s programatorjem
-- brisanje je mnoo hitrejše kot pri EPROM
-- možno je izbrisati samo 1 byte
-- lahko ima vgrajen programator
-- FLASH
+  - je vrsta pomnilnika EPROM
+  - vsebino brišemo z močnimi ele. sunkom in ponovno vpisujemo s programatorjem
+  - brisanje je mnoo hitrejše kot pri EPROM
+  - možno je izbrisati samo 1 byte
+  - lahko ima vgrajen programator
+  - FLASH
 	- pomn. lahko brišemo ele.
 	- brisanje poteka v blokih (npr. 512B)
 	- pišemo lahko samo po zbrisanem pomnilniku
