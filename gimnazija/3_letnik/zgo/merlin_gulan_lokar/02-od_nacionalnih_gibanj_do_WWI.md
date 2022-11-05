@@ -80,3 +80,7 @@ title: II. Od nacionalnih gibanj do WWI
 | nacionalizem   | Evropske nacije so želele pokazati svojo moč in prestiž v svetu                                          |
 | Ravnotežje sil | Evropske države so bile prisiljene pridobivati nove kolonije, da bi ohranile ravnovesje s svojimi sosedi |
 | belčevo breme  | Evropski občutek *superiornosti* jih je silil da civilizirajo "divjake" dežel, ki so jih zasedli         |
+
+- 2 največji kolonialni državi v Evropi sta bili **Velika Britanija** in **Francija**; ostale države: Nemčija, Japonska, Portugalska, ZDA, Nizozemska...
+- Velika Britanija in Francija sta večinoma obvladovale **Azijo**
+- v 20. stoletju pa tudi **Afriko**
