@@ -44,7 +44,7 @@ title: I. Vzpon meščanstva in uveljavitev parlamentarizma
 - Francija je kljub spremembi politične ureditve še vedno v gospodarski krizi. Odgovorne za tako stanje so bili **žirodinci**
 - bili so predstavniki srednjega in visokega meščanstva in bili so za nadaljevanje revolucije. V času njihovega vladanja se je Francija podala v vojno z Avstrijo, a je bila poražena.
 - ker Ludvik XVI. ni sprejel prostovoljcev, so mu ti tako zamerili, da so ga odstavili (zapor, nato smrt)
-- leta 1972 je narodna skupščina ukinila monarhijo (dokončno) in se razglasila kot **republiko**. Po kraljevi smrti nastopijo **jakobinci** (1793), z voditeljem **Maximilienom Robespierrom**, ki je vladal z močjo.
+- leta 1792 je narodna skupščina ukinila monarhijo (dokončno) in se razglasila kot **republiko**. Po kraljevi smrti nastopijo **jakobinci** (1793), z voditeljem **Maximilienom Robespierrom**, ki je vladal z močjo.
 - vse nasprotnike svojega režima je dal usmrtiti z **giljotino**
 
 ## Napoleon si podredi Evropo

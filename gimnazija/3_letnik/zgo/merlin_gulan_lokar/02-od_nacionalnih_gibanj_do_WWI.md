@@ -16,7 +16,7 @@ title: II. Od nacionalnih gibanj do WWI
 - Prvi poskus nacionalnega gibanja ($\dfrac{1}{2}$ 19. stoletja) je bil neuspešen. Ta se ponovno pojavijo sredi 19. stoletja
 - **Boj za združitev Italije**
     - Italija je bila razdeljena na 7 kneževin:
-        - Piemond-Sardinija
+        - Piemont-Sardinija
         - Lombardija
         - Benečija
         - Parma, Modena
