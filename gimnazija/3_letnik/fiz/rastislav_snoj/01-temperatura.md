@@ -98,7 +98,7 @@ Deluje med spodno in zgornjo T
 
 $\gamma = \frac{A}{Q_{prejeta}} < 1$
 
-$\gamma = \frac{Q_{prejeta} - Q_{oddana}}{Q_{prejeta}} = 1 - \frac{Q_{oddana}}{Q_{prejeta}} = 1 - \frac{T_z}{T_s}$ ... izkoristek idealnega toplotnega stroja
+$\gamma = \frac{Q_{prejeta} - Q_{oddana}}{Q_{prejeta}} = 1 - \frac{Q_{oddana}}{Q_{prejeta}} = 1 - \frac{T_s}{T_z}$ ... izkoristek idealnega toplotnega stroja
 
 Če $T_s$ pade ali $T_z$ naraste se $\gamma$ poveča
 
