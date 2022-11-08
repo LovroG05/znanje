@@ -67,7 +67,7 @@ $\Delta W = \Delta W_k + \Delta W_p + ...$
 
 $A_{el} = UIt = (m * c_v * \Delta T)$
 
-idealno:$A_{el} = \Delta W_n$
+idealno: $A_{el} = \Delta W_n$
 
 $c_p \approx c_v$
 
@@ -98,7 +98,7 @@ Deluje med spodno in zgornjo T
 
 $\gamma = \frac{A}{Q_{prejeta}} < 1$
 
-$\gamma = \frac{Q_{prejeta} - Q_{oddana}}{Q_{prejeta}} = 1 - \frac{Q_{oddana}}{Q_{prejeta}} = 1 - \frac{T_s}{T_z}$ ... izkoristek idealnega toplotnega stroja
+$\gamma = \frac{Q_{prejeta} - Q_{oddana}}{Q_{prejeta}} = 1 - \frac{Q_{oddana}}{Q_{prejeta}} = 1 - \frac{T_z}{T_s}$ ... izkoristek idealnega toplotnega stroja
 
 Če $T_s$ pade ali $T_z$ naraste se $\gamma$ poveča
 
@@ -117,7 +117,13 @@ $\gamma = \frac{Q_{odv}}{A} = \frac{Q_{odv}}{Q_{odd}-Q_{odv}} = \frac{T_s}{T_z-T
 
 $A <<< Q_{odd}$
 
-$V_{ti} = \frac{Q_{odd}}{Q_{odd}-Q_{odv}} = \frac{T_z}{T_s-T_z}$ ... učinek
+$\nu_{ti} = \frac{Q_{odd}}{Q_{odd}-Q_{odv}} = \frac{T_z}{T_z-T_s}$ ... učinek
+
+## Štefanov zakon
+
+$j = \omega * T^4$
+
+$P = S * \omega * T^4$
 
 ## Kinetična energija plina
 
