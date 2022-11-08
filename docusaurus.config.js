@@ -166,6 +166,11 @@ const config = {
 				],
 				copyright: `Copyright © ${new Date().getFullYear()} Znanje. Od vegovcov za vas.`,
 			},
+
+			colorMode: {
+				defaultMode: "dark",
+				respectPrefersColorScheme: true,
+			},
 			prism: {
 				theme: lightCodeTheme,
 				darkTheme: darkCodeTheme,

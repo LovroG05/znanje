@@ -16,7 +16,7 @@ title: II. Od nacionalnih gibanj do WWI
 - Prvi poskus nacionalnega gibanja ($\dfrac{1}{2}$ 19. stoletja) je bil neuspešen. Ta se ponovno pojavijo sredi 19. stoletja
 - **Boj za združitev Italije**
     - Italija je bila razdeljena na 7 kneževin:
-        - Piemond-Sardinija
+        - Piemont-Sardinija
         - Lombardija
         - Benečija
         - Parma, Modena
@@ -39,7 +39,7 @@ title: II. Od nacionalnih gibanj do WWI
 - Leta 1866 sledi več bitk med Avstrijci in Prusi, hkrati pa tudi med Avstrijci in Italijani.
 - Največja bitka poteka pri **Kraljevem gradcu** (450k vojakov), **Prusi zmagajo**.
 - Leta 1870 je potekala bitka pri **Sedanu**, kjer so Prusi zajeli 100k Francozov.
-- Francozi v teji bitki dobijo **2 pomembni pokrajini: *Alzacijo* in *Loreno***
+- Francozi v teji bitki zgubijo **2 pomembni pokrajini: *Alzacijo* in *Loreno***
 - **18.1.1871** so v Versaillesu razglasili **Nemško cesarstvo**. Pruski kralj je tudi Nemški cesar.
 
 ## Združitev Italije
