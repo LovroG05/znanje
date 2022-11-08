@@ -108,7 +108,7 @@ Vsi toplotni stroji opravljajo KROŽNE spremembe (reverzibilne)
 
 ## Hladilni stroji
 
-$\gamma = \frac{Q_{odv}}{A} = \frac{Q_{odv}}{Q_{odd}-Q_{odv}} = \frac{T_s}{T_z-T_s}$
+$\nu = \frac{Q_{odv}}{A} = \frac{Q_{odv}}{Q_{odd}-Q_{odv}} = \frac{T_s}{T_z-T_s}$
 
 
 ![alt text](img/hladilni_stroj.png)
