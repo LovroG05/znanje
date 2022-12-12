@@ -84,3 +84,23 @@ title: II. Od nacionalnih gibanj do WWI
 - 2 največji kolonialni državi v Evropi sta bili **Velika Britanija** in **Francija**; ostale države: Nemčija, Japonska, Portugalska, ZDA, Nizozemska...
 - Velika Britanija in Francija sta večinoma obvladovale **Azijo**
 - v 20. stoletju pa tudi **Afriko**
+
+## Zaostrovanje odnosov med evropskimi velesilami
+
+### Berlinski kongres
+- 1878
+- vodi ga Bismarck
+- cilj oslabitev BiH; Avstro-Ogrska dobi mandat za vlado BiH
+- pravoslavno prebivalstvo si zada nalogo da se bodo na Balkanu (BiH) znebili turkov (muslimanov). Rusija pri tem podpira srbe, ki živijo na tem območju
+- leta 1881 so Rusija, Nemčija in Avstro-Ogrska podpisale tajno pogodbo
+- Avstro-Ogrska, Nemčija - skrivna pogodba (dvojna zveza)
+- Avstro-Ogrska, Nemčija, Italija - trojna zveza
+- 1894 - Francija, Rusija
+- 1904 - Francija, Velika Britanija - prisrčna zveza
+- 1905 - Francija, Velika Britanija, Rusija
+
+## Balkanski sod smodnika
+
+Srbija, BiH in Makedonija so konec 19. stoletja predstavljale glavno prizorišče nestabilnih razmer na Balkanu. BiH je bila v tem času pod nadzorom Avstro-Ogrske, Srbija je postala neodvisna, Makedonijo pa so si razdelile Srbija, Bulgarija in Grčija.
+
+V letih 1912 - 1913 sta se odvili 2 Balkanski vojni, razlog je razpadajoče turško cesarstvo. Balkanske vojne bodo uvod za **WWI** leta 1914, glavno besedo je imela Srbija, ki si je za svoj cilj postavila ustanovitev **Velike Srbije**
