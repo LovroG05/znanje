@@ -37,10 +37,10 @@ upošteva razdaljo, ki pove koliko daleč je iskano omrežje od dotičnega usmer
 
 ### Metrika
 nam pove, po kateri poti naj gre glede na:
-    - število skokov
-    - hitrost
-    - zakasnitev
-    - zanesljivost
+- število skokov
+- hitrost
+- zakasnitev
+- zanesljivost
 
 ### RIP
 ```
