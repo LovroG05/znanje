@@ -25,12 +25,12 @@ R1(config)# ip route 0.0.0.0 0.0.0.0 192.168.2.1
 ## Dinamični
 
 Prednosti:
-    - odpravi se potreba po številnih posegih administratorja
-    - dosežemo hitrejši odziv in vzpostavitev nove poti zaradi hitrega in avtomatskega delovanja usmerjevalnih algoritmov (če se prekine)
+- odpravi se potreba po številnih posegih administratorja
+- dosežemo hitrejši odziv in vzpostavitev nove poti zaradi hitrega in avtomatskega delovanja usmerjevalnih algoritmov (če se prekine)
 
 Dinamične usmerjevalne protokole glede na izračun optimalne poti delimo na:
-    - **distance vector**
-    - **link state**
+- **distance vector**
+- **link state**
 
 ### Vektor razdalje
 upošteva razdaljo, ki pove koliko daleč je iskano omrežje od dotičnega usmerjevalnika in pa vektor, ki pove v katero smer mora poslati paket, da bo prišel do končnega omrežja.
