@@ -10,7 +10,7 @@ Imperializem, neenakomerna razdeljenost kolonij - države si želijo več ozemlj
 
 ### Zakaj se je odprlo bojišče na morju?
 
-Nemčija je napadala ladje s civilisti, saj so sumili da prevažajo orožje (učasih so ga res). Antantne sile napadejo nazaj.
+Nemčija je potopila nekaj civilnih ladij, saj so sumili da prevažajo orožje. ZDA se priključi vojni.
 
 ### Katera država je leta 1915 vstopila v vojno? Razložite zakaj.
 
@@ -30,9 +30,7 @@ Centralne sile
 
 ### Razložite pojem "kazenski mir", ki je bil podpisan na versajski mirovni konferenci.
 
-Zmagovalne države kaznujejo poraženke z namenom vzdrževanja miru, ampak ima nasproten vpliv, ker je bila kazen prehuda in pripelje do WW2.
-
-Kazenski mir je drugo ime za versajsko pogodbo. Tako se imenuje ker je bila Nemčija ostro kaznovana:
+Kazenski mir je drugo ime za versajsko pogodbo. Tako se imenuje, ker je bila Nemčija ostro kaznovana:
 Prepoved združitve z A-O, Reparacija, izgubi veliko težkega orožja in mornarico, izgubi velik del državnega ozemlja in kolonije
 
 ### Kakšno kazen je morala Nemčija sprejeti na versajski konferenci?
@@ -77,7 +75,7 @@ pri rekah Marna in Soma, Verdun
 
 ### Opišite ključno razliko med avtoritarnimi in totalitarnimi diktaturami.
 
-Avtoritarna ne posega v zasebnost posameznika, dovolj jim je da plačujejo davke ampak še vedno obračunajo z nasprotniki. Totalitarna ima nadzor nad vsem, vtika se v posameznikovo zasebnost.
+Avtoritarna načeloma ne posega v zasebnost posameznika, dovolj jim je da plačujejo davke ampak še vedno obračunajo z nasprotniki. Totalitarna ima nadzor nad vsem, vtika se v posameznikovo zasebnost.
 
 ### Kako se je imenoval Rooseveltov program za premagovanje gospodarske krize?
 
