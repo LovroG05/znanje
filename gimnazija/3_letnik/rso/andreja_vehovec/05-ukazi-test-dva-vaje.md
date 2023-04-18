@@ -4,66 +4,66 @@ title: Ukazi za 2. test
 
 # VLAN
 
-Switch> enable
+Switch\> enable
 
 Switch # configure terminal
 
-Switch(config)# vlan <št. VLAN> 2
+Switch(config)# vlan \<št. VLAN\> 2
 
-Switch(config-vlan)# name <ime VLAN> meow
+Switch(config-vlan)# name \<ime VLAN\> meow
 
 Switch(config-vlan)# exit
 
 ---
 
-Switch> enable
+Switch\> enable
 
 Switch # configure terminal
 
-Switch(config)# interface <št. vmesnika> int
+Switch(config)# interface \<št. vmesnika\> int
 
 Switch(config-if)# switchport mode access
 
-Switch(config-if)# switchport access vlan <VLAN ID> 2
+Switch(config-if)# switchport access vlan \<VLAN ID\> 2
 
 Med sw sw ali sw ro
 
-Switch> enable
+Switch\> enable
 
 Switch # configure terminal
 
-Switch(config)# interface <št. vmesnika>
+Switch(config)# interface \<št. vmesnika\>
 
 Switch(config-if)# switchport mode trunk
 
 ## Preverjanje:
 
-Switch> enable
+Switch\> enable
 
 Switch # show vlan
 
-Switch> show run
+Switch\> show run
 
 ## Povezava Valn preko usmerjevalnika:
 
-Router > enable
+Router \> enable
 
 Router # configure terminal
 
-Router (config)# interface <št. vmesnika>	
+Router (config)# interface \<št. vmesnika\>	
 
 Router (config)# no shutdown
 
-Router (config)#interface fastEthernet 0/1. <št.Vlan> 
+Router (config)#interface fastEthernet 0/1. \<št.Vlan\> 
 
-Router (config-subif)#encapsulation dot1q <št.Vlan>
+Router (config-subif)#encapsulation dot1q \<št.Vlan\>
 
-Router (config-subif)#ip address <ip številka> <maska omrežja>			
+Router (config-subif)#ip address \<ip številka\> \<maska omrežja\>			
 
 
 # IPV6 STATIČNO IN DINAMIČNO 
 
-Router0>enable
+Router0\>enable
 
 Router0#configure terminal
 
@@ -80,7 +80,7 @@ Router0 (config-if)#no shutdown
 
 ## Nastavitve za  dinamično usmerjanje RIPng na Router0:
 
-Router0>enable
+Router0\>enable
 
 Router0#configure terminal
 
@@ -100,7 +100,7 @@ Router0 (config)#exit
 
 ## Nastavitev OSPFv3
 
-Router0>enable
+Router0\>enable
 
 Router0#configure terminal
 
@@ -118,11 +118,11 @@ Router0 (config)#exit
 
 # Statično
 
-Router0>enable
+Router0\>enable
 
 Router0#configure terminal
 
-Router0(config)#ipv6 route ABCD:2234:FFEE::/48 ABCD:1234:FFEE::2 <najprej navedete omrežje z masko in nato naslednji skok>
+Router0(config)#ipv6 route ABCD:2234:FFEE::/48 ABCD:1234:FFEE::2 \<najprej navedete omrežje z masko in nato naslednji skok\>
 
 Router0 (config)#ipv6 route ABCD:3234:FFEE::/48 ABCD:1234:FFEE::2 
 
@@ -201,7 +201,7 @@ SW#show ip route
 
 ## Statično usmerjanje
 
-R(config)#ip nat inside source static <privatni IP od serverja> <javni IP od int>
+R(config)#ip nat inside source static \<privatni IP od serverja\> \<javni IP od int\>
 
 R(config)#int gi0/0  *** vmesnik, kjer so priključeni privatni IP naslovi
 
@@ -213,11 +213,11 @@ R(config-if)#ip nat outside
 
 ## Dianmičen NAT
 
-R(config)#ip nat inside source list  <št> pool <ime>
+R(config)#ip nat inside source list  \<št\> pool \<ime\>
 
-R(config)#ip nat pool <ime> <prvi javni IP> <zadnji javni IP> netmask <maska>
+R(config)#ip nat pool \<ime\> \<prvi javni IP\> \<zadnji javni IP\> netmask \<maska\>
 
-R(config)#access-list <št> permit <naslov privatnega omrežja aka network> <wild card> (0.0.0.0)
+R(config)#access-list \<št\> permit \<naslov privatnega omrežja aka network\> \<wild card\> (0.0.0.0)
 
 R(config)#int gi0/0  *** vmesnik, kjer so priključeni privatni IP naslovi
 
