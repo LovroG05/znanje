@@ -104,3 +104,4 @@ title: II. Od nacionalnih gibanj do WWI
 Srbija, BiH in Makedonija so konec 19. stoletja predstavljale glavno prizorišče nestabilnih razmer na Balkanu. BiH je bila v tem času pod nadzorom Avstro-Ogrske, Srbija je postala neodvisna, Makedonijo pa so si razdelile Srbija, Bulgarija in Grčija.
 
 V letih 1912 - 1913 sta se odvili 2 Balkanski vojni, razlog je razpadajoče turško cesarstvo. Balkanske vojne bodo uvod za **WWI** leta 1914, glavno besedo je imela Srbija, ki si je za svoj cilj postavila ustanovitev **Velike Srbije**
+
