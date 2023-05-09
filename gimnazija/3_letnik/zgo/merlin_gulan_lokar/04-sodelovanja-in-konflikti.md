@@ -22,7 +22,7 @@ title: III. Sodelovanja in konflikti
 - VB in FR se priključita 3.9. z vojno napovedjo NEM
 - sredi septembra v vojno ustopi SZ, pred koncem mesca pa je Poljska izginila z njunih zemljevidov. $\frac{1}{5}$ ljudi umre ~ 6M
 - oktobra 1939 je SZ zasedla Latvijo, Estonijo, Litvo, skrajni v FIN
-- jeseni 1941 pride do spora med USA in JAP, saj oboji želijo prevlado nad otoki v Pacifiku
+- jeseni 1941 pride do spora med USA in JAP, saj oboji želijo prevlado nad otoki (Hawaii) v Pacifiku
 - 7.12.1941 JAP napadejo Pearl Harbor
 - 1942 se odpre nova fronta v Afriki - El Alamein (NEM + IT vs VB)
 - junija 1942 1. preobrat v WW2
@@ -47,7 +47,15 @@ title: III. Sodelovanja in konflikti
 ### Atlantska listina
 
 - 14.8.1941
+- podpisnice: ZDA, VB
+- boj proti nacizmu in komunizmu
+
+### Teheranska konferenca
+
+- 1.12.1943
 - ZDA, VB, SZ
+- Churchill, Roosevelt, Stalin
+- pogovor o bodočih mejah
 - obračun z akterji vojne na mednarodnih vojaških sodiščih
 - kaznovanje NEM: 4 okupacijske cone
 
@@ -103,7 +111,7 @@ title: III. Sodelovanja in konflikti
 
 ## Sovietizacija Vzhodne Evrope
 
-- odgovor na NATO je bila ustanovitev **Varšavskega pakta** (1953 - 1989)
+- odgovor na NATO je bila ustanovitev **Varšavskega pakta** (1955 - 1989)
 - SZ je v Evropi postavila t.i. **Železno zaveso** -> glej zemljevid str 83
 - Železna zavesa je bariera iz železja, betona, bodeče žice, stražnih stolpov, ...
 - države, ki so mejile z Zahodno evropo:
@@ -170,8 +178,9 @@ title: III. Sodelovanja in konflikti
     - Vietnamska vojna
     - Bližnjevzhodna vojna
     - Kubanska raketna kriza
+    - nekdanje kolonije
     - Gibanje neuvrščenih
-        - ustanoviteljica je Jugoslavija, soustanoviteljici sta Indija in Egipt
+        - ustanoviteljica je Jugoslavija, soustanoviteljici sta Indija in Egipt + 100 držav
 
 ## Popuščanje napetosti
 
@@ -180,6 +189,7 @@ title: III. Sodelovanja in konflikti
 ## Gospodarski razvoj
 
 - po WWII je bil najbolj opazen na Zahodu, medtem ko Vzhod tovrstnega razvoja ni bil deležen
+- vzhod razvoja ni biu deležen zaradi omejitev oblasti
 
 ## Popularna kultura
 
@@ -187,7 +197,9 @@ Vzhodnoevropske države so po WWII zelo hitro sprejele nov stil oblačenja, glas
 
 ## Zaton hladne vojne
 
-Decembra 1989 sta Bush in Gorbačev podpisala sporazum o padcu komunizma v Vzhodni Evropi
+- Decembra 1989 sta Bush (na začetku Reagan) in Gorbačev podpisala sporazum o padcu komunizma v Vzhodni Evropi
+- **začetek**: **REAGAN**, Gorbačov
+- **konec**: **BUSH**, Gorbačov
 
 ## Padec komunizma v Vzhodni Evropi
 
