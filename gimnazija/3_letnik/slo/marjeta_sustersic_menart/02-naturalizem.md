@@ -100,3 +100,23 @@ title: Naturalizem
 - liberalec
 - kot dijak je pisal poezijo. Prvo daljše pripovedno delo roman Na Žerinjah je nastal pod Jurčičevim vplivom, kasneje pa se je zgledoval po sodobnih evropskih realistih. Bil je mojsterv opisevanju trško-mestnega okolja. Ker je bil notar je zelo dobro poznal tudi kmete. Izdal je zbirko črtic in novel Kmetske slike, v katerih je na videz neprizadeto razčlenil duševnost kmečkih ljudi. Nanj je vplival Celestin s svojim programom. V njegovih delih prepoznamo poetični realizem (stvarno življenje je prikazoval pod tančico idealizma t.j. z jasnim moralnim vrednotenjem. Gre za omiljeni realizem. (ljudje so kaznovani za svoje grehe)).
 - Jara gospoda -> slabšalna oznaka za prebivalce manjših krajev, ki se dokopljejo do premoženja in dosežejo izobrazbo, vendar z vedenjem zgolj posnemajo meščane.
+
+## Ivan Tavčar
+
+- 1851 - 1923
+- Visoška kronika - 1919
+- rojen v kmečki družini, Poljane nad Škofjo Loko
+- na Dunaju študiral pravo, delal kot odvetnik v LJ. Bil je pomemben politik (liberalec) - državni poslanec in Ljubljanski župan
+- poročen z Franjo Tavčar, ki je bila pomembna osebnost ženskega gibanja
+- Kupil je posestvo s kmečkim dvorcem Visoko
+- Pisal je že kot dijak, v začetku se je zgledoval po Josipu Stritarju
+- v svojih zgodnih delih idealizira kmečko življenje
+- pomembne so njegove ljubezenske novele v Zali, njegove črtice (Med Gorami), cvetje v jeseni
+- Visoška kronika, Izza kongresa
+
+### Visoška kronika
+
+- je zadnji in najboljši Tavčarjev roman
+- po vsebini zgodovinski roman
+- zajema čas protireformacije
+
